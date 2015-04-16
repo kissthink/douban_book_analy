@@ -1,0 +1,3525 @@
+黑客与画家
+数学之美
+算法导论（原书第2版）
+计算机程序的构造和解释
+代码大全（第2版）
+深入理解计算机系统
+C程序设计语言
+集体智慧编程
+深入理解计算机系统（原书第2版）
+艾伦•图灵传
+编程珠玑
+编码
+C++ Primer 中文版（第 4 版）
+构建之法
+设计模式
+编程之美
+算法（第4版）
+程序员修炼之道
+编码的奥秘
+人月神话
+UNIX环境高级编程
+程序员的自我修养
+Head First 设计模式（中文版）
+Java编程思想 （第4版）
+UNIX编程艺术
+数据结构与算法分析
+鸟哥的Linux私房菜.基础学习篇（第三版）
+TCP/IP详解 卷1：协议
+重构
+程序员的思维修炼
+计算机程序设计艺术（第1卷）
+程序员修炼之道
+七周七并发模型
+C Primer Plus
+具体数学（英文版第2版）
+软件随想录
+JavaScript语言精粹
+C专家编程
+HTTP权威指南
+编译原理
+JavaScript高级程序设计（第3版）
+计算机科学概论（第11版）
+黑客
+C++ Primer 中文版（第 5 版）
+离散数学及其应用（原书第5版）
+人月神话
+Python源码剖析
+重构
+CSS禅意花园
+逻辑的引擎
+敏捷软件开发
+具体数学
+编写可读代码的艺术
+精通正则表达式
+代码整洁之道
+Effective java 中文版（第2版）
+深度探索C++对象模型
+推荐系统实践
+UNIX网络编程
+编码
+STL源码剖析
+编程珠玑(第二版)
+算法
+程序设计实践
+C和指针
+游戏引擎架构
+白帽子讲Web安全
+我是一只IT小小鸟
+图灵的秘密
+走出软件作坊
+R语言实战
+淘宝技术这十年
+Python基础教程
+机器学习
+七周七语言
+卓有成效的程序员
+大型网站技术架构
+The  C Programming Language
+现代操作系统
+奇思妙想
+构建高性能Web站点
+A Byte of Python
+Effective C++中文版
+机器学习实战
+C++语言的设计和演化
+Effective C++
+第一行代码
+如何求解问题
+编程人生
+JavaScript DOM编程艺术
+计算机网络
+Head First HTML与CSS、XHTML（中文版）
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT)
+研究之美
+程序员的职业素养
+算法导论（原书第3版）
+人件
+高性能网站建设指南
+深入浅出Node.js
+高效程序员的45个习惯
+程序员面试金典（第5版）
+利用Python进行数据分析
+程序设计语言
+松本行弘的程序世界
+大话设计模式
+DOOM启世录
+代码大全
+大教堂与集市
+Head First Java（第二版·中文版）
+30天自制操作系统
+Python核心编程（第二版）
+系统之美
+C陷阱与缺陷
+Vim实用技巧
+全景探秘游戏设计艺术
+Linux多线程服务端编程
+深入理解LINUX内核
+Algorithms
+程序员的数学
+高性能网站建设进阶指南
+Redis设计与实现
+Ruby元编程
+The Little Schemer - 4th Edition
+JavaScript权威指南(第6版)
+算法导论
+梦断代码
+JavaScript DOM编程艺术 （第2版）
+技术领导之路
+啊哈!算法
+JavaScript 权威指南
+与孩子一起学编程
+Java并发编程实战
+剑指Offer
+大数据
+编程语言实现模式
+JavaScript权威指南
+Pro Git
+高性能JavaScript
+社交网站的数据挖掘与分析
+C++程序设计语言（特别版）
+深入Java虚拟机(原书第2版)
+C语言编程：一本全面的C语言入门教程（第三版）
+Orange'S:一个操作系统的实现
+大话数据结构
+黑客与画家
+Effective C++
+Linux C编程一站式学习
+PHP和MySQL Web开发(原书第4版)
+别怕，Excel VBA其实很简单
+高性能MySQL
+设计原本
+图解HTTP
+计算机网络（第4版）
+高性能MySQL
+C++标准程序库
+数据挖掘导论
+Thinking in Java
+深入理解Java虚拟机
+Web前端黑客技术揭秘
+Python学习手册
+修改代码的艺术
+JavaScript高级程序设计
+深入浅出设计模式（影印版）
+Unix/Linux编程实践教程
+程序设计方法（中文版）
+Hacker's Delight
+代码之美
+TCP/IP详解 卷2：实现
+疯狂的程序员
+The Pragmatic Programmer
+计算机程序设计艺术（第1卷）
+算法帝国
+基于MVC的JavaScript Web富应用开发
+深入理解Java虚拟机（第2版）
+软件开发者路线图
+深入理解计算机系统
+计算机系统要素
+Linux/Unix设计思想
+代码的未来
+《生活大爆炸》之科学揭秘
+汇编语言（第2版）
+Android编程权威指南
+这就是搜索引擎
+冒号课堂
+Code
+CLR via C#
+Head First Python（中文版）
+MacTalk 人生元编程
+编程珠玑II
+企业应用架构模式
+大规模Web服务开发技术
+Python Cookbook
+大规模分布式存储系统
+Objective-C编程
+深入理解计算机系统（英文版·第2版）
+Java核心技术·卷1：基础知识（原书第9版）
+深入Linux内核架构
+游戏之旅
+精通CSS
+项目管理艺术
+HTML & CSS设计与构建网站
+CSS权威指南（第三版）
+深入理解LINUX内核
+算法心得：高效算法的奥秘（原书第2版）
+UNIX网络编程 卷1：套接字联网API（第3版）
+编程格调
+JavaScript高级程序设计:第2版
+算法：C语言实现
+Linux设备驱动程序
+Effective Java 中文版
+程序员的呐喊
+How to Design Programs
+编程珠玑（续）
+Dive Into Python
+超越CSS
+Programming Collective Intelligence
+Effective C++
+高效程序的奥秘
+计算机组成与设计硬件/软件接口
+数据之美
+算法艺术与信息学竞赛
+Java编程思想
+MySQL性能调优与架构设计
+Windows核心编程(第5版)
+最后期限
+Learn Python the Hard Way
+Coders at Work
+Linux内核设计与实现
+大型网站系统与Java中间件开发实践
+大数据日知录
+不敢止步
+图解TCP/IP : 第5版
+Google软件测试之道
+Clean Code
+算法引论
+C程序设计语言
+企业应用架构模式
+Hackers and Painters
+JAVA并发编程实践
+Cracking the Coding Interview
+移动应用UI设计模式
+数据库系统概念
+项目管理之美
+可爱的Python
+持续交付
+Introduction to Algorithms, 3rd Edition
+Operating Systems
+JavaScript: The Good Parts
+Python自然语言处理
+Secrets of the JavaScript Ninja
+程序员健康指南
+Linux命令行与shell脚本编程大全
+JAVA 2核心技术 卷Ⅰ
+MongoDB权威指南
+JAVA核心技术（卷1）
+挑战程序设计竞赛（第2版）
+Git权威指南
+软件架构师应该知道的97件事
+LUA程序设计(第2版)
+UNIX编程艺术
+C++程序设计原理与实践
+JavaScript设计模式
+C++程序设计语言
+只是为了好玩
+算法竞赛入门经典
+观止-微软创建NT和未来的夺命狂奔
+Code Complete
+Parsing Techniques
+The Art of UNIX Programming
+推荐系统
+从Paxos到Zookeeper
+TCP/IP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议
+极客与团队
+编程之魂
+RESTful Web Services中文版
+Introduction to Algorithms
+Real-Time Rendering, Third Edition
+Java Concurrency in Practice
+智能Web算法
+深入理解Nginx
+编程珠玑
+程序开发心理学
+Android开发精要
+Just for Fun
+HTML5高级程序设计
+C专家编程
+C语言入门经典
+世界是数字的
+分布式Java应用
+计算机网络
+像计算机科学家一样思考Python
+统计建模与R软件
+精通JavaScript
+The Linux Command Line
+鸟哥的Linux私房菜 基础学习篇(第二版)
+Python标准库
+自制编程语言
+编程ING
+构建可扩展的Web站点
+Programming Ruby中文版
+JavaScript语言精粹
+C++设计新思维
+PHP和MySQL Web开发
+Python科学计算
+测试驱动开发
+Windows 程序设计：第5版
+算法设计与分析基础
+正则指引
+Web性能权威指南
+编程精粹
+C语言程序设计现代方法
+SQL反模式
+The Practice of Programming
+Node.js开发指南
+Effective STL中文版
+The Art of Computer Programming, Volumes 1-3 Boxed Set
+C++Primer Plus
+“笨办法”学Python（第3版）
+Python学习手册（第4版）
+ppk谈JavaScript
+R语言编程艺术
+Head First Design Patterns
+我编程，我快乐
+Windows核心编程
+数据结构
+UNIX网络编程 卷2
+应用密码学
+C标准库
+调试九法
+Inside the C++ Object Model
+ggplot2
+软件调试
+微积分的历程
+The Elements of Programming Style
+HTML5和CSS3实例教程
+现代编译原理
+第一本Docker书
+C++ Primer中文版
+Linux程序设计
+黑客攻防技术宝典（第2版）
+Algorithms
+iOS编程（第4版）
+Building Machine Learning Systems with Python
+计算的本质：深入剖析程序和计算机
+Why Programs Fail
+编写高质量代码
+架构之美
+锋利的jQuery
+MySQL必知必会
+深入浅出 MFC 第二版
+Machine Learning for Hackers
+C程序设计
+Erlang 程序设计
+C陷阱与缺陷
+Practical Vim
+深入浅出MFC （第二版）
+面向对象分析与设计
+一站式学习C编程
+On Lisp
+算法设计手册
+Effective Modern C++
+信息检索导论
+编写高质量代码：改善Python程序的91个建议
+Concrete Mathematics
+Python for Data Analysis
+锋利的jQuery
+Unix & Linux大学教程
+计算机科学导论
+JAVASCRIPT语言精髓与编程实践
+Linux/UNIX系统编程手册
+理解专业程序员
+Hadoop权威指南
+Java性能优化权威指南
+Android系统源代码情景分析
+代码之髓
+The Art of Game Design
+七周七数据库
+汇编语言程序设计
+Objective-C基础教程
+数据结构与算法分析
+Haskell趣学指南
+计算机体系结构
+数据库系统概念
+软件框架设计的艺术
+改变未来的九大算法
+R in Action
+Linux Shell脚本攻略
+Java编程思想(第2版)
+Learning From Data
+迷茫的旅行商
+自己动手写操作系统
+C++沉思录
+穿越计算机的迷雾
+The Algorithm Design Manual
+HTML5
+C++编程规范
+通灵芯片
+C语言程序设计
+Ruby编程语言
+LaTeX入门
+代码阅读方法与实践
+设计模式之禅
+编程原本
+C++编程思想（第1卷）
+Linux内核设计与实现
+Go语言编程
+编写可维护的JavaScript
+Python高级编程
+Maven实战
+游戏人工智能编程案例精粹
+Real World Haskell
+The Google Resume
+用户故事与敏捷方法
+算法精解
+Android软件安全与逆向分析
+软件测试的艺术
+算法概论
+计算机程序设计艺术（第2卷）
+HTML5秘籍
+C语言接口与实现
+深入理解Android
+编译器设计
+Microsoft.NET框架程序设计
+领域特定语言
+计算机系统概论
+UML和模式应用
+The Art of Readable Code
+UNIX编程环境
+可视化数据
+Learning Python
+Types and Programming Languages
+Learning Processing
+Java语言程序设计
+SQL 必知必会（第3版）
+深入理解C#（第2版）
+JavaScript
+莱昂氏UNIX源代码分析
+数据挖掘与R语言
+金融数据分析导论：基于R语言
+实用Common Lisp编程
+The C++ Programming Language
+C程序设计语言
+C语言程序设计
+算法设计
+疯狂Java讲义
+互联网创业启示录
+系统程序员成长计划
+Shell脚本学习指南
+More Effective C++（中文版）
+Python Cookbook
+Processing
+The Architecture of Open Source Applications
+复杂性思考
+实战Nginx
+UNIX操作系统设计
+The Seasoned Schemer
+Python Tutorial
+数据库系统实现
+数据之魅
+领域驱动设计
+软件测试
+Python灰帽子
+Learn You a Haskell for Great Good!
+Objective-C高级编程
+深入解析Windows操作系统
+C++ Concurrency in Action
+Spring实战（第3版）
+sed与awk
+算法竞赛入门经典（第2版）
+More Effective C++中文版
+Natural Language Processing with Python
+COM本质论
+Hadoop权威指南(中文版)
+Java解惑
+Perl语言入门
+Processing互动编程艺术
+JavaScript DOM高级程序设计
+C++沉思录
+Ajax实战
+Oracle 9i & 10g编程艺术
+你必须知道的495个C语言问题
+NoSQL精粹
+大话通信
+The Linux Programming Interface
+SQL必知必会
+Thinking in C++
+MySQL技术内幕
+深入浅出HTML与CSS、XHTML
+应用Rails进行敏捷Web开发
+Computer Systems
+离散数学及其应用（原书第6版）
+机器学习
+高效能程序员的修炼
+深入PHP
+Concepts, Techniques, and Models of Computer Programming
+编程的本质
+高等应用数学问题的MATLAB求解
+鸟哥的Linux私房菜
+入侵的艺术
+Essential C++中文版
+Python网络编程基础
+3D数学基础
+快速软件开发
+OpenGL编程指南（原书第7版）
+编译原理
+Linux内核源代码情景分析（上册）
+计算机科学概论 （第10版）
+搜索引擎
+Hadoop技术内幕
+数据结构与算法分析
+现代操作系统
+ANSI Common Lisp
+信息论基础
+HTML和XHTML权威指南(第五版)
+Oracle Database 9i/10g/11g编程艺术
+UNIX环境高级编程（第3版）
+Effective Objective-C 2.0
+C++ Primer 英文版（第 5 版）
+算法之道
+Design Patterns
+编程之道
+More Effective C++
+大道至简
+高可用MySQL
+深入理解LINUX网络内幕
+The AWK Programming Language
+恰如其分的软件架构
+C++Templates中文版
+HTTP
+Redis入门指南
+Hackers & Painters
+expert one-on-one J2EE Development without EJB 中文版
+Programming Pearls
+数据挖掘
+JavaScript编程精解
+UNIX环境高级编程
+C和指针
+Windows内核原理与实现
+计算机与人脑
+Head First Servlets & JSP（中文版）
+操作系统
+SQL语言艺术
+代码本色：用编程模拟自然系统
+搜索模式
+Think Python
+加密与解密
+Cracking the Coding Interview, Fourth Edition
+现代体系结构上的UNIX系统
+Refactoring
+计算机科学概论
+UNIX网络编程 : 第2版. 第2卷， 进程间通信(中文版)
+Essential of Programming Languages, 3rd Edition
+Compilers
+Hadoop实战
+JavaScript模式
+The Swift Programming Language
+编程大师访谈录
+Joel说软件
+HTML5揭秘
+Framework Design Guidelines
+Head First Java
+C++语言的设计与演化
+Computer Systems
+设计原本（英文版）
+程序员必读之软件架构
+Linux高性能服务器编程
+重构与模式
+计算机程序设计艺术(第3卷)-排序和查找(英文影印版)
+Objective-C 2.0程序设计
+JAVA核心技术卷2
+图解密码技术
+Eloquent JavaScript
+Linux Kernel Development
+PHP与MySQL 5程序设计
+Engineering a Compiler, Second Edition
+Web开发敏捷之道
+计算机体系结构
+深度探索C++对象模型
+嗨翻C语言
+程序员成长路线图
+C++ Primer Plus
+句法结构
+Java与模式
+操作系统设计与实现（上册）
+大教堂与市集（The Cathedral and the Bazaar）
+The Design and Evolution of C++
+Linux内核完全剖析
+The Clean Coder
+程序员应该知道的97件事
+JavaScript框架设计
+Algorithm Design
+iOS Programming
+iOS编程
+Linux程序设计
+Seven Concurrency Models in Seven Weeks
+Hadoop
+网络渗透技术
+Processing: Creative Coding and Computational Art
+鸟哥的LINUX私房菜
+Purely Functional Data Structures
+软件调试的艺术
+HTML and CSS
+Head First HTML with CSS & XHTML
+jQuery实战
+UNIX环境高级编程
+自然语言处理综论
+算法技术手册
+高质量程序设计指南
+收获，不止Oracle
+算法引论
+深入剖析Tomcat
+设计原本
+Beautiful Code
+Android应用性能优化
+Python Algorithms
+Hadoop: The Definitive Guide
+程序设计实践
+Head First HTML与CSS（第2版）
+Language Implementation Patterns
+C++GUI Qt4编程
+支撑处理器的技术
+CPU自制入门
+计算机的心智
+设计模式解析
+学习OpenCV（中文版）
+WebKit技术内幕
+JavaScript语言精髓与编程实践
+The C++ Programming Language
+设计模式
+MATLAB数值计算
+Borland传奇
+Python语言入门
+The Art of R Programming
+Debug Hacks中文版
+Practical Common Lisp
+统计自然语言处理基础
+线性代数
+How to Think Like a Computer Scientist: Learning with Python
+iOS编程
+Flash ActionScript 3殿堂之路
+代码阅读
+软件测试经验与教训
+Algorithms on Strings, Trees and Sequences
+Perl语言编程
+Java特种兵（上册）
+C语言核心技术
+大象
+正则表达式必知必会
+Accelerated C++中文版
+Flash ActionScript 3.0动画教程
+Ajax基础教程
+TCP/IP路由技术（第一卷）
+企业集成模式
+布道之道
+Head First PHP & MySQL（中文版）
+Clojure编程
+Programming in Scala
+Linkers and Loaders
+Land of Lisp
+统计思维
+Game Programming Patterns
+Game Engine Architecture
+Windows程序设计
+你就是极客
+Google API大全
+51单片机应用从零开始
+JavaScript面向对象编程指南
+C#入门经典
+Effective Java: Second Edition
+领域驱动设计
+Patterns of Enterprise Application Architecture
+算法概论
+High Performance MySQL
+PHP核心技术与最佳实践
+Programming Language Pragmatics, Third Edition
+游戏编程中的人工智能技术
+iOS开发进阶
+泛型编程与STL
+JavaScript异步编程
+Java网络编程(中文版 第三版)(O＇Reilly Java系列)
+程序设计语言
+用AngularJS开发下一代Web应用
+征服C指针
+Windows内核情景分析
+Building Scalable Web Sites
+jQuery基础教程
+REST实战
+3D游戏编程大师技巧
+人月神话（英文版）
+数据结构与算法分析
+Head First Object-Oriented Analysis and Design
+Nine Algorithms That Changed the Future
+Agile Java 中文版
+设计模式
+The Nature of Code
+Go Web编程
+Python编程实战
+算法竞赛入门经典
+编程珠玑（英文版・第2版）
+Java编程思想
+PHP程序设计
+Head First HTML and CSS
+Go并发编程实战
+计算机程序设计艺术（第3卷）
+编程卓越之道
+LINUX系统编程
+疯狂Android讲义
+How Google Tests Software
+High Performance Web Sites
+High Performance Browser Networking
+DirectX 9.0 3D游戏开发编程基础
+Java核心技术（卷2）：高级特性（原书第9版）
+编程之道
+日志管理与分析权威指南
+人工智能
+C#与.NET 4高级程序设计（第5版）
+游戏脚本高级编程
+编程匠艺
+Modern Operating Systems
+jQuery 技术内幕
+Elements of Programming
+Scrum敏捷软件开发
+C++编程思想
+写给大忙人看的Java SE 8
+汇编语言
+Expert C Programming
+C语言参考手册
+Linux内核完全注释
+Hacker's Delight
+计算机组成原理
+搜索引擎
+iPhone开发基础教程
+Learn Python The Hard Way, 1st Edition
+深入理解Scala
+AngularJS权威教程
+高级Bash 脚本编程指南
+The Science of Programming
+Learn Python The Hard Way, 2nd Edition
+Release It!
+梦断代码
+The Unix Programming Environment
+深入分析Java Web技术内幕
+实现模式
+Python UNIX 和Linux 系统管理指南
+C++网络编程（卷1）
+代码优化
+Effective Objective C 2.0
+Learning Spark
+编程卓越之道
+游戏开发中的人工智能
+UNIX超级工具 （第二版，上下卷）
+High Performance JavaScript
+重构（影印版）
+理解Unix进程
+Spring技术内幕—深入解析Spring架构与设计原理（Java社区和Spring社区一致鼎力推荐！）
+MongoDB实战
+UNIX网络编程第2卷
+Modern C++ Design
+C++ Primer, 4th Edition
+Dreaming in Code
+细说PHP
+Spring揭秘
+Modern Compiler Implementation in ML
+算法谜题
+程序开发心理学
+Pragmatic Thinking and Learning
+C语言接口与实现
+C Interfaces and Implementations
+Linux系统管理技术手册
+Intel汇编语言程序设计
+学习vi和Vim编辑器（中文版）
+iOS开发指南
+Mastering Regular Expressions 3rd
+离散数学及其应用
+R语言初学者指南
+Pro JavaScript Techniques
+Objective-C编程之道
+计算机图形学
+深入浅出SQL（中文版）
+C语言的科学和艺术
+深入理解C++11
+深入浅出Python（影印版）
+Seven Languages in Seven Weeks
+SciPy and NumPy
+C++程序设计
+Systems Performance
+深度探索Linux操作系统
+浴缸里的惊叹
+C程序设计语言
+集合论基础
+C++ 程序设计语言（特别版）（英文影印版）
+Scala编程
+两周自制脚本语言
+Boost程序库完全开发指南
+程序设计实践
+C++ Primer中文版
+面向模式的软件架构 卷4：分布式计算的模式语言
+轻量级Java EE企业应用实战
+VC++深入详解
+编译原理
+Effective JavaScript
+大规模C++程序设计
+Metasploit渗透测试魔鬼训练营
+Expert Python Programming
+Accelerated C++中文版
+Servlet与JSP核心编程
+计算机程序设计艺术 第2卷 半数值算法（第3版）（英文影印版）
+C++ Primer, 5th Edition
+实例化需求
+Java程序员修炼之道
+Python基础教程（第2版•修订版）
+Python参考手册（第4版）
+The Productive Programmer
+Python编程（第三版·英文影印版）
+Borland传奇
+大型分布式网站架构设计与实践
+自己动手写网络爬虫
+Java Performance
+Java程序性能优化
+Expert One-on-One J2EE Development without EJB
+算法设计
+Win32多线程程序设计
+CSS3实用指南
+Java夜未眠
+Dive Into Python 3
+C程序设计（第二版）
+Spring in Action中文版
+iOS 7 Programming Cookbook
+C语言接口与实现
+测试之美
+Java Nio
+垃圾收集
+集体智慧编程
+统计自然语言处理
+解析极限编程（第二版）（中英文对照）
+深入浅出MySQL数据库开发、优化与管理维护
+算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）
+C++编程思想
+编写有效用例
+Processing语言权威指南
+程序员实用算法
+重构
+柔性字符串匹配
+高级编译器设计与实现
+Scala程序设计
+软件创新之路
+面向模式的软件体系结构 卷2:用于并发和网络化对象的模式
+现代操作系统
+UML基础、案例与应用
+网络游戏核心技术与实战
+R和Ruby数据分析之旅
+Perl语言入门
+编译原理及实践
+JAVA多线程设计模式
+Ruby on Rails Tutorial
+软件工程的事实与谬误
+HTML与CSS入门经典
+WINDOWS游戏编程大师技巧<第2版>(附光盘)
+游戏的设计与开发
+Understanding MySQL Internals
+Programmers at Work
+时间触发嵌入式系统设计模式
+Effective Java
+Android应用开发揭秘
+软件测试的艺术
+iOS应用逆向工程：分析与实战
+版本控制之道
+爱上Processing
+写给大家看的C语言书
+深入浅出Hibernate
+大话存储
+Google Android开发入门与实战
+逆向工程核心原理
+HTML 5 与 CSS 3 权威指南
+人工智能
+C#本质论
+JavaScript: The Definitive Guide, 6th Edition
+HTML、CSS、JavaScript网页制作从入门到精通
+分析模式
+明解C语言
+剑指Offer
+深入浅出Java
+松本行弘的程式世界
+Hadoop in Action
+悟透JavaScript
+RESTful Web Services Cookbook中文版
+深入浅出面向对象分析与设计（中文版）
+自动机理论、语言和计算导论(英文版.第3版)
+Linux内核完全剖析
+CSS设计指南
+Writing Solid Code
+UML Distilled
+Head First C#
+Windows用户态程序高效排错
+MATLAB神经网络30个案例分析
+API Design for C++
+学习 Vi 编辑器（第六版）
+计算机程序设计艺术卷1：基本算法(英文版.第3版)
+Effective JavaScript
+程序员面试宝典
+Advanced Programming in the UNIX(R) Environment (2nd Edition)
+多处理器编程的艺术
+Linux命令行和shell脚本编程宝典
+Programming Ruby
+面向模式的软件体系结构(卷1) (平装)
+Physically Based Rendering, Second Edition
+Android 4高级编程
+ACM图灵奖演讲集
+大象：Thinking in UML(第2版)
+逐梦旅程：Windows游戏编程之从零开始
+Linux命令、编辑器与Shell编程
+JavaScript王者归来
+程序设计实践
+Redis in Action
+PHP高级程序设计
+Android 4游戏编程入门经典
+R Cookbook
+More Exceptional C++中文版
+Programming Erlang
+Ghost in the Wires
+Joel on Software
+Head First JavaScript
+软件开发沉思录
+C++反汇编与逆向分析技术揭秘
+The Design of the UNIX Operating System
+CSS实战手册（第2版）
+Java 2核心技术（卷Ⅱ）
+Spark大数据处理：技术、应用与性能优化
+深入PHP：面向对象、模式与实践（第3版）
+C++编程思想（两卷合订本）
+MATLAB编程
+TCP/IP详解 卷1：协议（英文版）
+父与子的编程之旅
+ZooKeeper
+链接器和加载器
+程序员思维修炼（修订版）
+Java消息服务
+Visualizing Data
+Mac OS X Internals
+编程的修炼（中英双语）
+可能与不可能的边界
+驾驭大数据
+Head First Python
+挑战编程
+Expert One-on-One J2EE Design and Development
+游戏开发的数学和物理
+Instructor's Manual t/a Structure and Interpretation of Computer Programs
+Data Structures and Algorithm Analysis in C (2nd Edition)
+Pro Python
+Masterminds of Programming
+Essential C++
+敏捷软件开发（影印版）
+Open Data Structures
+操作系统概念
+网络游戏开发
+程序员的修炼
+Learning Android（中文版）
+虚拟机
+Effective C++
+HTML XHTML CSS 基础教程（第6版）
+分布式系统原理与范型
+How Tomcat Works
+软件架构师的12项修炼
+解析极限编程
+C++Primer(英文版)(第4版)
+程序员成长的烦恼
+Principles of Computer System Design
+新概念51单片机C语言教程
+苹果开发之Cocoa编程
+SQL Cookbook中文版
+用TCP\IP进行网际互连
+虚拟机
+Flash ActionScript 3.0 动画高级教程
+C++ Primer Plus
+ARM嵌入式系统开发
+Operating Systems Design and Implementation, 3/E
+Let Over Lambda
+Working Effectively with Legacy Code
+Linux内核源代码情景分析（下册）
+设计模式
+数据模型资源手册(卷1)(修订版)(附光盘) (平装)
+Python计算机视觉编程
+游戏编程入门
+Linux内核设计的艺术
+深入浅出程序设计（中文版）
+Python入门经典
+深入浅出WPF
+Accelerated C++
+精彩绝伦的CSS
+Metaprogramming Ruby
+深入浅出Ajax（中文版）
+Data Science at the Command Line
+UNIX网络编程（第1卷）
+Advanced Compiler Design and Implementation
+Windows via C/C++
+Python编程入门（第3版）
+软件架构设计
+Android基础教程
+学习GNU Emacs
+数据结构
+Erlang/OTP并发编程实战
+黑客反汇编揭秘
+漫画数据库
+Google Android开发入门指南
+大型多人在线游戏开发
+x86/x64体系探索及编程
+ZeroMQ
+游戏开发物理学
+黑客攻防技术宝典
+Android技术内幕
+解码宇宙
+.NET设计规范
+死亡之旅
+Design for Hackers
+jQuery基础教程
+C++大学教程
+编程珠玑（第2版•修订版）
+lucene in action中文版
+远大前程
+Head First SQL
+.NET设计规范
+MySQL 5 权威指南-(第3版)
+Cracking the Coding Interview: 150 Programming Questions and Solutions(5th edition)
+啊哈C！思考快你一步
+HotSpot实战
+Node.js in Action
+Core Java Volume I--Fundamentals
+Python Cookbook
+UNIX系统编程
+OpenCV 2 Computer Vision Application Programming Cookbook
+Head First HTML5 Programming（中文版）
+Java数据结构和算法
+搜索引擎
+Programming Massively Parallel Processors
+超越C++标准库
+ML程序设计教程
+深入学习MongoDB
+Effective Java
+Building Microservices
+JavaScript核心概念及实践
+JavaScript Patterns
+Ruby基础教程（第4版）
+测试驱动开发
+Extending and Embedding PHP
+CLR via C#（第4版）
+The C++ Standard Library
+Git版本控制管理
+A Little Java, A Few Patterns
+计算机程序设计艺术
+PHP和MySQL Web应用开发核心技术
+Object-Oriented JavaScript
+琢石成器
+深入理解C#（第3版）
+Django Web开发指南
+MongoDB
+Java并发编程
+iOS软件开发揭密
+数据库重构
+敏捷开发的艺术
+The Architecture of Open Source Applications, Volume II
+Apache源代码全景分析第1卷
+学习bash
+PHP程序设计
+HTML5程序设计（第2版）
+xUnit Test Patterns
+Programming Game AI by Example
+程序员修炼之道
+Professional JavaScript for Web Developers
+提高C++性能的编程技术
+程序员修炼之道
+C语言参考手册(原书第5版)
+真实世界的Python仪器监控
+单元测试之道Java版
+Eloquent Ruby
+简约之美
+Java解惑
+图解网络硬件
+Core Python Programming
+持续集成
+lex与yacc
+Unix Power Tools, Third Edition
+Big Data
+像程序员一样思考
+MATLAB实用教程
+Debug It!
+嵌入式Linux应用开发完全手册
+元素模式
+Joel谈优秀软件开发方法
+嵌入式实时操作系统μC\OS-Ⅱ
+反模式
+Web开发秘方
+细说PHP
+凌波微步(软件开发警戒案例集)
+研磨设计模式
+Computer Architecture
+C++ API设计
+Exceptional C++中文版
+框架设计
+MySQL技术内幕（第4版）
+大话处理器
+From Mathematics to Generic Programming
+鸟哥的Linux私房菜――服务器架设篇
+测试驱动开发的艺术
+开源软件文集
+Unix Network Programming, Volume 1
+The Ruby Programming Language
+Fortran95程序设计
+R语言与统计分析
+Domain-Specific Languages
+Cocoa入门
+Design Patterns Elements of Reusable Object-Oriented Software
+版本控制之道
+修改代码的艺术
+Essentials of Programming Languages - 2nd Edition
+Web表单设计
+数据结构、算法与应用
+C++网络编程（卷2）
+CSS Mastery
+Is Parallel Programming Hard, And, If So, What Can You Do About It?
+软件故事
+设计模式沉思录
+Programming From The Ground Up
+数据结构
+Linux就是这个范儿
+Python编程实践
+Learning Python, 3rd Edition
+你必须知道的.NET
+TCP/IP高效编程
+Microsoft SQL Server 2005技术内幕：T-SQL程序设计
+编程匠艺
+Node即学即用
+程序员的数学思维修炼（趣味解读）
+OSGi原理与最佳实践
+Programming Interactivity
+The Mythical Man Month and Other Essays on Software Engineering
+Thinking in Java (3rd Edition)
+计算机算法的设计与分析
+程序设计抽象思想
+Java面向对象编程
+深入浅出Web设计（中文版）
+构建高可用Linux服务器
+计算机程序设计艺术
+写给大家看的面向对象编程书
+计算机网络（第6版）
+Getting Started with Google Guava
+POSIX多线程程序设计
+Masters of Doom
+C# 4.0图解教程
+PHP与MySQL程序设计
+The Joy of Clojure
+分析模式
+An Introduction to GCC
+ActionScript 3.0 Cookbook中文版
+CSS权威指南（第三版·英文影印版）
+格蠹汇编
+游戏编程全接触
+精通Android游戏开发
+The Little Book of SEMAPHORES
+数据库查询优化器的艺术
+疯狂Java讲义
+Learning the vi and Vim Editors
+程序设计语言原理
+Objective-C 程序设计
+Excel 2010 VBA编程与实践
+精通iOS开发
+The RSpec Book
+J2EE设计开发编程指南
+人工智能复杂问题求解的结构和策略
+Even Faster Web Sites
+RESTful Web APIs中文版
+网站重构（第3版）
+老码识途
+Microsoft SQL Server 2008技术内幕
+Java Puzzlers
+Excel VBA程序开发自学宝典
+The Definitive Guide to Django
+COM技术内幕-微软组件对象模型
+游戏之巅
+Effective C# 中文版
+The Reasoned Schemer
+Arduino开发实战指南
+C# in Depth
+Java程序员，上班那点事儿
+编写高质量代码
+iOS 6编程实战
+C算法(第一卷:基础、数据结构、排序和搜索)(第三版)
+Mahout实战
+数据结构与算法分析
+Computer Vision
+The UNIX Hater's Handbook
+快学Scala
+C语言名题精选百则技巧篇
+代码整洁之道
+J2EE核心模式
+iPhone开发秘籍 （第2版）
+实时计算机图形学
+Spring in Action
+Python for Data Analysis
+JavaScript面向对象编程指南（第2版）
+Programming in Lua, Second Edition
+可变目标C编译器
+C++编程思想第2卷
+More Joel on Software
+天书夜读
+Java TCP/IP Socket编程
+.NET单元测试艺术
+Head First C
+Computer Architecture, Fifth Edition
+大道至简
+Ruby on Rails 3 Tutorial
+寒江独钓
+Combinatorial Optimization
+Web编程入门经典
+Java语言程序设计基础篇
+学习Python
+C++模板元编程
+恶意代码分析实战
+Lisp in Small Pieces
+微软的秘密
+Linux Kernel Development (2nd Edition)
+Windows环境下32位汇编语言程序设计
+Android的设计与实现
+Getting Started with Processing
+一个程序员的奋斗史
+Erlang编程指南
+Go 语言程序设计
+Agile Software Development, Principles, Patterns, and Practices
+Professional Linux Kernel Architecture (Wrox Programmer to Programmer)
+数据结构与算法分析
+Imperfect C++中文版
+Java虚拟机并发编程
+高质量程序设计艺术
+解析极限编程
+Swift语言实战入门
+Pro JavaScript Design Patterns
+Data Analysis with Open Source Tools
+HTML5与CSS3基础教程（第7版）
+iPhone 4与iPad开发基础教程
+Programming Languages
+jQuery Cookbook
+The Little MLer
+Junit in Action 中文版
+The Scheme Programming Language
+Cocos2d-x高级开发教程
+UNIX程序设计艺术
+应用密码学：协议、算法与C源程序（原书第2版）
+The Node Beginner Book
+Node.js实战
+Beautiful Visualization
+我和LabVIEW
+Fundamentals of Computer Graphics, Third Edition
+深入理解程序设计
+UNIX编程艺术
+TCP/IP网络编程
+Node.js 实战
+Oracle DBA手记
+C++必知必会
+Storm源码分析
+JavaScript启示录
+UNIX网络编程 卷1
+JavaScript: The Definitive Guide, 5th Edition
+TCP/IP协议族
+Clojure Programming
+CLR via C#
+C#入门经典(第5版)
+Learning OpenCV
+C# in Depth, 3rd Edition
+iOS编程实战
+C Primer Plus
+ZeroMQ：云时代极速消息通信库
+Intermediate Perl
+Programming Pig
+Python开发实战
+Database System Concepts
+Exceptional C++ Style中文版
+Windows核心编程
+深入理解Android
+Node
+PHP and MySQL Web Development
+C程序设计教程
+Head First Web Design
+C++语言的设计和演化(英文版)
+Linux内核修炼之道
+Programming Python
+The Definitive Guide to Django, 2nd Edition
+程序员面试宝典
+爱上Arduino
+敏捷软件开发
+程序员修炼之道（影印版）
+Beginning C# Objects中文版
+软件工程：实践者的研究方法（原书第 5 版）
+The Way To Go
+程序设计语言理论基础
+LINUX与UNIX Shell编程指南
+深入浅出JavaScript（中文版）
+High Performance MySQL Second Edition
+Collective Intelligence in Action
+编程高手箴言
+人人都有好工作
+学习正则表达式
+信息论基础
+Learning the vi and Vim Editors
+Python in a Nutshell, Second Edition
+C++ Design Patterns and Derivatives Pricing
+高级Perl编程
+iPhone 3开发基础教程
+微信公众平台开发最佳实践
+Concurrent Programming on Windows
+Effective STL
+DOM Scripting
+Growing Object-Oriented Software, Guided by Tests
+C安全编码标准
+CLR via C#
+C++ Templates
+Python 编程金典
+算法设计技巧与分析
+数据结构与算法JavaScript描述
+OpenGL超级宝典
+GNU Make项目管理（第三版）
+ActionScript 3.0编程精髓
+英国游戏设计基础教程
+IBM-PC汇编语言程序设计 （第2版）
+深入分析Java Web技术内幕（修订版）
+NoSQL Distilled
+Programming in Lua, Third Edition
+现代编译原理
+Perl语言入门
+Pointers on C
+High Performance Python
+Introduction to Tornado
+Objective-C基础教程
+深入浅出CoffeeScript
+Wxpython in Action
+程序设计语言原理
+深入剖析Nginx
+The Passionate Programmer
+More Programming Pearls
+Cassandra权威指南
+程序员面试逻辑题解析
+Head First PHP & MySQL
+真实世界的Haskell
+Head First Java, 2nd Edition
+从问题到程序
+MATLAB在数学建模中的应用
+了不起的Node.js
+Creative Code
+计算机图形学的算法基础
+Programming in Scala
+C++标准库
+Real-Time Collision Detection
+深入浅出Servlets&JSP
+Scala for the Impatient
+C程序设计(第四版)
+Lambda-Calculus and Combinators
+Algorithms in C++, Parts 1-4
+C数值算法
+PHP与MySQL基础教程
+Java Generics and Collections
+写给大家看的C++书
+爱上单片机
+Java语言程序设计基础篇
+PHP经典实例
+编写安全的代码
+Advanced Linux Programming
+Scratch少儿趣味编程
+Data Mining
+HTTP Developer's Handbook
+Functional JavaScript
+C++ GUI Programming with Qt 4 (2nd Edition) (Prentice Hall Open Source Software Development Series)
+论道HTML5
+计算机程序设计艺术：第4卷 第4册（双语版）
+C++ Coding Standards
+C++程序设计教程
+Functional Thinking
+JavaScript权威指南
+Windows高级调试
+Java2入门经典
+Haskell函数式编程入门
+测试驱动的JavaScript开发
+Learning the bash Shell
+短码之美
+Arduino技术内幕
+数据挖掘
+算法设计与分析基础
+Programming Concurrency on the JVM
+软件工艺
+Learning GNU Emacs Third Edition
+tmux
+软件调试修炼之道
+Excel VBA应用开发从基础到实践
+Computer Organization and Design
+C#高级编程(第4版)
+Python Programming
+Getting Real
+Java虚拟机规范(Java SE 7版)
+代码之道
+The Art of Multiprocessor Programming
+Linux内核精髓
+Test Driven Development
+UNIX环境高级编程
+Ruby for Rails中文版
+实时碰撞检测算法技术
+程序员面试宝典（第4版）
+实用算法的分析与程序设计
+TCP\IP详解（卷1英文版）
+iOS 7 Programming Pushing the Limits
+计算机程序设计艺术：第4卷 第3册（双语版）
+R的极客理想
+Pro Android 2
+标准模板库自修教程与参考手册(STL进行C++编程第2版)
+计算机图形学
+Windows编程启示录
+C#入门经典
+UML精粹
+Python网络编程基础
+Learning Perl, Fourth Edition
+C++程序设计原理与实践
+Java入门1•2•3
+OpenGL ES 2.0 Programming Guide
+Programming with POSIX® Threads
+jQuery
+代码之殇
+Peopleware
+The Art and Science of Java
+Python Programming
+大数据时代的IT架构设计
+编译原理 技术与工具
+敏捷武士
+我的第一本C++书
+SQL入门经典
+Struts2技术内幕
+DOOM启世录
+软件调试实战
+R in a Nutshell
+Beginning Python
+精通脚本黑客
+Web开发敏捷之道
+Problem Solving with Algorithms and Data Structures Using Python
+Linux高级程序设计
+Developing Backbone.js Applications
+OpenCV2计算机视觉编程手册
+C语言教程
+游戏编程精粹6
+计算机图形学
+Dynamic HTML权威指南
+Beginning Python
+图形程序开发人员指南
+CG教程-可编程实时图形权威指南
+Head First HTML5 Programming
+Java语言程序设计进阶篇
+计算机算法设计与分析
+LINUX设备驱动程序
+敏捷软件开发
+SQL Performance Explained
+Objective-C程序设计（第6版）
+Python数据分析基础教程
+标签
+卓越程序员密码
+MFC Windows程序设计
+程序设计语言的形式语义
+COM原理与应用
+并发的艺术
+游戏编程精粹 1
+人月神话
+Ajax修炼之道
+微信公众平台服务号开发：揭秘九大高级接口
+ACE程序员指南
+WCF全面解析（上下册）
+The Healthy Programmer
+Java大学简明教程
+学习PYTHON 第三版(英文影印版)
+ROOTKITS
+精通iOS开发
+sed & awk
+Java线程
+深入Linux设备驱动程序内核机制
+深入解析Windows操作系统：第6版（上册）
+Implementation Patterns
+Python开发技术详解
+Exceptional C++
+编译原理 技术与工具
+80X86汇编语言程序设计教程
+深入浅出面向对象分析与设计
+Understanding Linux Network Internals
+The Standard C Library
+Haskell
+Dependency Injection
+LINUX随身指南
+XSS跨站脚本攻击剖析与防御
+写给程序员的Web设计书
+WCF技术剖析（卷1）
+High Performance Python
+ARM Cortex-M3权威指南
+敏捷软件开发
+ACM图灵奖
+操作系统概念（第七版）
+Linux System Programming
+Ruby Programming
+开发自己的搜索引擎--Lucene 2.0+Heriterx
+Out of their Minds
+Python Essential Reference
+自己动手写搜索引擎
+Verilog HDL高级数字设计
+狂人C
+Clojure程序设计
+腾云
+网络机器人Java编程指南
+黑客与画家
+Node Web开发
+Agile Web Development with Rails
+Java程序设计语言
+More Effective C++
+Version Control with Git
+Java2核心技术<卷Ⅰ>基础知识(第6版)
+The Algorithm Design Manual
+精彩绝伦的Android UI设计
+精通Struts
+汇编语言与计算机体系结构
+The C++ Standard Library
+Pearls of Functional Algorithm Design
+iOS开发指南
+Thinking in C++, Volume 2
+世界大学生程序设计竞赛
+正则表达式必知必会（修订版）
+计算机图形学
+LabVIEW大学实用教程
+The Scheme Programming Language, 4th Edition
+jQuery权威指南
+Android和PHP开发最佳实践
+C++面向对象程序设计
+Pro Django
+IDA Pro权威指南
+C Traps and Pitfalls
+测试驱动的面向对象软件开发
+Cocoa® Programming for Mac® OS X
+C程序设计经典教程
+JavaScript编程全解
+程序员，你伤不起
+Spring技术内幕（第2版）
+PHP & MySQL Web数据库应用开发指南
+Java加密与解密的艺术
+PYTHON技术手册
+GAE编程指南
+C++面向对象多线程编程
+Java JDK6学习笔记
+Linux设备驱动开发详解
+PHP基础教程
+精通Perl
+UNIX编程艺术
+Hadoop实战（第2版）
+Why Programs Fail
+Java Reflection in Action
+Programming Interviews Exposed
+数据结构C++语言描述
+Web开发修炼之道
+Maintainable JavaScript
+Learn Objective–C on the Mac (Learn Series) (Volume 0)
+C++语言99个常见编程错误
+人月神话（注释版）
+C语言解惑
+Windows驱动开发技术详解
+操作系统设计与实现（下册）
+GPU精粹2
+多处理器编程的艺术
+MUD游戏编程
+C#高级编程
+Practical Java中文版
+Hello World! Computer Programming for Kids and Other Beginners
+Debugging
+Mathematica Cookbook
+C#高效编程
+jQuery in Action
+Linux内核设计与实现
+GNU Make项目管理
+Basic Category Theory for Computer Scientists
+计算机程序设计艺术（第1卷 英文版・第3版）
+Arduino Cookbook
+多核应用编程实战
+C++高级编程
+Web标准实战
+GNU Emacs Lisp 编程入门
+Microsoft Windows Internals (4th Edition)
+Unity 4.X 从入门到精通
+移山之道
+The Ruby Way中文版
+计算机图形学原理及实践:C语言描述(原书第2版) (平装)
+软件估算
+计算机视觉
+程序员面试攻略
+Java JDK 7学习笔记
+Learning Deep Architectures for AI
+虚拟机的设计与实现
+疯狂Android讲义
+Lua游戏开发实践指南
+Jenkins
+NSHipster
+Google Android SDK开发范例大全
+Windows并发编程指南
+Head First Servlets and JSP 2nd Edition
+See MIPS Run, Second Edition
+GNU/Linux编程指南(第二版)(1163)
+使用HTML、CSS和JavaScript开发Android程序
+浪潮之巅
+Python游戏编程入门
+Java深度历险
+深度探索关系数据库
+程序员第二步
+算法设计与分析
+Test-Driven Development with Python
+C++编程风格
+内存数据管理
+追踪Linux TCP/IP代码运行
+Android系统原理及开发要点详解
+精通Matlab 7
+Java开发实战经典
+C: A Reference Manual (5th Edition)
+云计算核心技术剖析
+Google Android揭秘
+Vi iMproved (VIM)
+GPU高性能编程CUDA实战
+Writing GNU Emacs Extensions
+The Busy Coder's Guide to Android Development
+HBase实战
+Introduction to Computation and Programming Using Python
+Tomcat与Java Web开发技术详解（第2版）
+.NET本质论第1卷:公共语言运行库 (平装)
+Software Tools
+Hacking Vim
+算法：C语言实现
+The Little SAS Book
+The Well-Grounded Java Developer
+MPI与OpenMP并行程序设计
+Cucumber：行为驱动开发指南
+Object-Oriented Programming With ANSI-C
+Scala in Depth
+PLC教程
+游戏设计
+精通正则表达式
+Python for Unix and Linux System Administration
+C#与.NET 3.5高级程序设计
+Node.js入门经典
+Mastering Algorithms with C
+单元测试之道C#版
+Text Processing in Python
+Introduction to Algorithms
+趣学Python编程
+Java程序设计教程实验手册
+并行程序设计
+计算机代数系统的数学原理
+算法基础
+Python for Finance
+Apprenticeship Patterns
+数据分析：R语言实战
+Beautiful Architecture
+Perl Best Practices
+深入理解C指针
+Programming Ruby 1.9 & 2.0
+Java 8 Lambdas
+Perl Cookbook, Second Edition
+Discrete Mathematics and Its Applications
+JavaScript高效图形编程
+重构HTML
+C++编程规范
+Visual C++ 技术内幕（第四版）
+Linux 系统编程（第二版）
+NoSQL数据库入门
+C++程序设计
+Programming in Objective-C 2.0
+Code Reading
+LINUX权威指南（第三版）
+C++ Primer（第4版）习题解答
+Clojure编程乐趣
+Common Lisp
+PHP 5权威编程
+敏捷技能修炼
+C程序设计的抽象思维
+Simply Scheme - 2nd Edition
+Version Control with Subversion
+Pro .NET Performance
+Effective C++ Third Edition
+Rapid GUI Programming with Python and Qt
+Ubuntu官方指南
+Android Application Testing Guide
+数字文明
+Exploring Everyday Things with R and Ruby
+CUDA by Example
+Inside the Java 2 Virtual Machine
+软件构架实践
+Windows PE权威指南
+程序设计导引及在线实践
+OpenGL编程指南
+Engineering a Compiler
+Windows Internals, Part 1
+Programming
+Data Structures and Algorithms Using Python
+Tomcat与Java Web开发技术详解
+Programming Hive
+精通Hibernate
+Shell脚本专家指南
+Managing Projects with GNU Make
+深入浅出Ajax
+OOD启思录
+More Exceptional C++（中文版）
+21天学通C语言
+精通Android 2
+Real-World Functional Programming
+Code Reading
+Programming in Haskell
+源码中国
+Extreme Programming Explained
+UNIX网络编程 卷I 套接字联网API（英文版・第3版）
+计算机程序设计艺术
+深入浅出JavaScript
+Java语言程序设计
+道法自然
+Autotools
+Type + Code: Processing for Designers
+Essential C++
+Event-Based Programming
+高性能PHP应用开发
+数字图像处理
+C#图解教程
+Python Text Processing with NLTK 2.0 Cookbook
+C# 高级编程（第 7 版）
+计算理论导论
+Java编程思想
+Pro Multithreading and Memory Management for iOS and OS X
+Regular Expressions Cookbook
+Android Programming
+Compiler Design
+Learning Android
+Rapid Development
+Sams Teach Yourself Emacs in 24 Hours
+深入解析Windows操作系统
+AngularJS
+The Definitive Antlr Reference
+生物信息学
+21天学通C++
+Single Page Web Applications
+Head First Design Patterns—深入淺出設計模式
+Programming Elixir
+Effective STL中文版
+JavaScript入门经典
+一步步写嵌入式操作系统
+ActionScript 3.0 Cookbook
+Modern Compiler Implementation in Java
+Android开发入门教程
+UML用户指南
+超越 Java
+代码揭秘
+C#与F#编程实践
+PC游戏编程
+计算机程序设计艺术,卷4A：组合算法（一）（英文版）
+ASP.NET MVC 4 高级编程
+TCP/IP Sockets编程
+Writing Efficient Programs
+随机过程导论
+Practices of an Agile Developer
+软件预构艺术（中文版）
+Verilog数字系统设计教程
+Lucene实战
+SAP程序设计
+Garbage Collection
+Microsoft Visual C++.NET技术内幕（第6版）
+微软研发 制胜策略
+Java就业培训教程
+Programming PHP
+Head First Programming
+Effective Programming
+手把手教你学DSP
+数据结构
+Head First Ajax（中文版）
+JavaScript精粹
+User Interface Design for Programmers
+Ruby Under a Microscope
+C++ Cookbook 中文版
+Async JavaScript
+数据结构与算法
+Redis
+Scaling MongoDB
+Dive Into Python 3
+Computer Networking
+Head First iPhone Development
+重构
+Game Engine Architecture, Second Edition
+Head First C#（中文版）
+轻量级J2EE企业应用实战
+Advanced Topics in Types and Programming Languages
+WPF揭秘
+领域驱动设计
+代码质量
+Android游戏编程之从零开始
+GPU精粹
+计算机程序设计艺术
+iPhone开发秘籍
+Ruby设计模式
+计算机程序设计艺术（第3卷 英文版·第2版）
+Redis Cookbook
+Visual C# 2010从入门到精通
+JavaScript入门经典
+Windows网络编程
+Android应用开发
+游戏外挂攻防艺术
+Tcl/Tk入门经典
+数据重现
+精通MATLAB R2011a
+21st Century C
+编码整洁之道
+HTML5与CSS3实例教程（第2版）
+Ruby Best Practices
+C#程序设计语言
+Algorithms in C, Parts 1-4
+ASP.NET MVC 4框架揭秘
+C++必知必会
+JavaScript基础教程
+Android多媒体开发高级编程
+Beginning Linux Programming
+精通正则表达式
+高质量程序设计指南
+Lucene in Action (In Action series)
+妙趣横生的算法
+LEMON语法分析生成器
+iOS 8 Swift Programming Cookbook
+Memory Management Algorithms And Implementation In C/C++
+C++ Primer Plus
+JavaScript核心技术
+深入体验Java Web开发内幕
+Advanced Bash Scripting Guide 5.3 Volume 2
+内存受限系统之软件开发
+Java语言的科学与艺术
+领域驱动设计与模式实战
+罗彻斯特城堡
+.net之美
+Programming Computer Vision with Python
+Microsoft SQL Server 2005技术内幕：T-SQL查询
+JavaScript编程实战
+.NET 本质论 第一卷:公共语言运行库
+Android编程实战
+Python编程入门经典
+PVCBOT零基础机器人制作
+计算几何
+重构
+C++ Template Metaprogramming
+匠人手记
+Accelerated C++
+Programming Clojure
+Violent Python
+构建高性能可扩展ASP.NET网站
+HTML5游戏编程核心技术与实战
+Oracle JRockit
+C程序性能优化
+HTML5 Canvas
+C程序设计语言
+駭客與畫家
+编写高质量代码
+Implementing Domain-Driven Design
+JSP & Servlet学习笔记
+Getting Started with OAuth 2.0
+Matlab for Neuroscientists
+Processing for Visual Artists
+Advanced Data Structures
+Beginning Android 2
+Erlang and OTP in Action
+Programming Ruby 1.9
+C语言深度解剖
+C++编程惯用法
+Ajax in Action
+Think Stats
+iOS 5基础教程
+CLR via C#, Second Edition (Pro Developer)
+学习OpenCV
+Head First Ajax
+Oracle优化日记
+JAVA2核心技术，卷II
+Generative Design
+你必须知道的.NET
+代码质量
+WPF 编程宝典
+Erlang程序设计（第2版）
+Ajax实战实例详解
+SQL Server 2005基础教程
+网络分析技术揭秘
+LINQ实战
+Struts 2.1权威指南
+Bayesian Computation With R
+PHP Web 2.0开发实战
+The Art of Agile Development
+深入浅出Google Android
+AppStore掘金
+汇编语言
+iOS Programming
+Using Google App Engine
+MATLAB Demystified
+C++ Templates中文版
+C++数据结构原理与经典问题求解
+Struts 2 in Action
+The Web Application Hacker's Handbook
+HTML 5用户指南
+97 Things Every Programmer Should Know
+数据结构（C语言版）
+语言与机器
+Java Web开发实战经典（基础篇）
+Programming Python
+Agile Web Development with Rails, Third Edition
+C#和.NET 2.0实战
+iOS Hacker's Handbook
+爪哇夜未眠（第二版）
+JSP设计
+C Primer Plus
+Pro OGRE 3D Programming
+Ruby for Rails
+An Introduction to Programming in Emacs Lisp
+移山之道
+3D计算机图形学
+深入嵌入式Java虚拟机
+用TCP/IP进行网际互连第三卷
+Understanding Computation
+Essential C++中文版
+Solaris内核结构
+Java网络编程精解
+自己动手写嵌入式操作系统
+Twisted Network Programming Essentials
+HTML5游戏开发
+开发自己的搜索引擎
+Perl语言入门
+Real World OCaml
+Programming Your Home
+软件架构设计
+Linux从入门到精通
+Erlang Programming
+Groovy in Action
+Mastering OpenCV with Practical Computer Vision Projects
+Learning Website Development with Django
+Pattern Recognition, Fourth Edition
+Introduction to Computation and Programming Using Python
+软件开发的科学与艺术
+The Tao of Programming
+Being Geek
+程序设计语言
+The Art of Computer Programming, Volume 1, Fascicle 1
+C/C++嵌入式系统编程
+Character Animation With Direct3D
+Linux网络编程
+无以言退
+Parsing Techniques
+代码整洁之道
+多核计算与程序设计
+Just Enough Software Architecture
+R语言数据操作
+Ruby语言入门
+人工智能游戏编程真言
+有效软件测试
+计算机程序设计艺术（第2卷 英文版·第3版）
+C程序设计题解与上机指导
+D is for Digital
+代码大全
+LINGO和Excel在数学建模中的应用
+程序员面试笔试宝典
+并行程序设计导论
+问题求解与编程概念
+顶级游戏设计
+More Effective C++中文版
+GPU Gems 2
+Git Internals
+程式之美-微軟技術面試心得
+Programming Scala
+OpenGL着色语言
+iOS 7应用开发入门经典
+Code Generation in Action
+Eclipse从入门到精通
+Thinking Forth
+Spark大数据处理技术
+云计算与分布式系统
+The Little Book on CoffeeScript
+ACM-ICPC世界总决赛试题解析
+Core Java, Volume I--Fundamentals
+深入理解LINUX网络技术内幕
+Seven Databases in Seven Weeks
+新编实用算法分析与程序设计
+C++面向对象高效编程(第2版)
+Common LISP. Second Edition
+3GPP长期演进
+The Art of Computer Programming, Volume 4, Fascicle 2
+Parallel and Concurrent Programming in Haskell
+测试驱动开发
+An Introduction to Programming with Mathematica®
+操作系统概念——Java 实现（第七版）
+重构与模式
+Android 4编程入门经典
+REST in Practice
+Everyday Scripting with Ruby中文版
+Small Memory Software
+Professional Android 2 Application Development
+深入浅出AVR单片机
+ASP.NET MVC 4 Web编程
+PHP实战
+Artificial Intelligence for Games, Second Edition
+Linux from Scratch
+WCF服务编程
+信息安全工程
+魔兽世界编程宝典
+Design by Contract原则与实践
+Spring in Action
+深入理解OSGi
+计算机图形学与几何造型导论
+HTML5 For Web Designer
+Web开发敏捷之道
+21天学通C++
+GPU高性能运算之CUDA
+计算机算法
+NumPy攻略
+Core Python Applications Programming
+程序设计中常用的解题策略
+Flash游戏编程基础教程
+More Effective C#中文版
+Linux Command Line and Shell Scripting Bible
+Java程序员职场全攻略
+Programming Challenges
+Contributing to Eclipse中文版
+Designing the Obvious
+The Definitive ANTLR 4 Reference
+Java设计模式
+计算统计
+MFC Windows程序设计
+Invent Your Own Computer Games with Python, 2nd Edition
+C算法（第二卷：图算法）（第3版）
+The Python Standard Library by Example
+iBATIS实战
+The iOS Apprentice
+Becoming a Better Programmer
+Rails之道
+C Programming
+测试驱动的iOS开发
+Programming the Universe
+GPGPU编程技术
+JavaScript Web Applications
+算法Ⅰ~Ⅳ(C++实现):基础、数据结构、排序和搜索
+Learn to Program
+网络科学
+编写高质量代码
+游戏编程精粹5
+Exceptional C++（中文版）
+精益软件度量
+Oracle SQL高级编程
+The Annotated C++ Reference Manual
+Java 7入门经典
+LINUX设备驱动程序(第二版)
+Java Web整合开发王者归来
+Windows核心编程
+Learning Perl
+小小黑客之路
+Practical Clojure (The Definitive Guide)
+Java编程规范
+分布式系统概念与设计
+SQL解惑
+编程大师智慧
+A Beginner's Guide to R
+Introduction to 3D Game Programming with Direct X 9.0c
+Windows环境下32位汇编语言程序设计
+数据结构基础
+The Rails 3 Way
+精通Oracle 10g PL/SQL编程
+Programming In Lua
+Crystal Clear
+Approximation Algorithms
+ARM体系结构与编程
+Programming ASP.NET中文版
+Core Java 2 - Volumen I - Fundamentos
+Collective Intelligence实战
+Debugging with GDB
+JavaScript权威指南 第6版（上、下册）
+软件驱魔
+Python计算与编程实践
+Advanced Programming in the UNIX Environment, 3rd Edition
+Raspberry Pi用户指南
+数据库系统基础教程
+专业嵌入式软件开发
+嵌入式系统开发之道
+Flex第一步
+Reactive Design Patterns
+Qt高级编程
+Programming Clojure
+我也能做CTO之程序员职业规划
+泛型编程与STL
+零基础学C语言
+插件式GIS应用框架的设计与实现
+Open GL编程指南
+Reversing
+分布式算法导论
+Advanced Programming in the UNIX Environment, 3rd Edition
+游戏测试精通
+OpenGL 4.0 Shading Language Cookbook
+并行编程模式
+Software for Data Analysis
+Building and Testing with Gradle
+详解HTML&CSS&JavaScript语法辞典
+正则表达式经典实例
+Windows图形编程
+MATLAB函数速查手册
+Spring技术手册
+持续集成
+iPhone开发实战
+Beginning IOS 5 Development
+Textmate
+How Debuggers Work
+多核程序设计技术
+Design Patterns Explained
+Silverlight 2 完美征程
+Programming iOS 4
+Successful Lisp
+计算几何
+OPEN SOURCES革命之声(影印版)
+Elements of Programming Interviews
+Struts 2实战
+The Book of CSS3
+Spring 2.0技术手册
+嵌入式系统软件教程
+Java编程思想
+产生式编程
+Fortran 95/2003程序设计
+Cocos2D-X游戏开发技术精解
+OGRE 3D 1.7 Beginner's Guide
+算法：C语言实现
+Cocoa设计模式
+12 Essential Skills for Software Architects
+设计模式解析
+ShaderX7
+高质量程序设计指南
+Beginning Game Development with Python and Pygame
+计算机系统设计原理
+疯狂iOS 讲义（上） Objective-C 2.0与iPhone/iPad应用开发基础
+Ruby Cookbook
+ASP.NET揭秘
+火球
+The Mathematica Book, Fifth Edition
+Object-Oriented Software Construction
+Introductory Statistics with R
+OSGi and Equinox
+软件架构的艺术
+精通Hibernate（第2版）
+OGRE 3D游戏开发框架指南
+深入解析ATL
+征服Python
+精通Windows Sockets网络开发
+JavaScript修炼之道
+iOS 5 cocos2d 游戏开发实战
+精通MATLAB6.5版(附光盘)
+分布式系统原理与范型
+Programming in Objective-C
+Binary Hacks
+用TCP/IP进行网际互联
+The C Puzzle Book
+深入浅出Ext JS
+xUnit测试模式
+Intel® 64 and IA-32 Architectures Software Developer's Manual
+C语言解析教程(原书第4版)
+C++ Primer 第4版 评注版
+Essential ActionScript 3.0
+Learning SQL
+学习PHP和MySQL
+游戏编程精粹3
+Think Python
+程序设计中的组合数学
+组合数学
+高级能计算并行编程技术--MPI并行程序设计
+Ruby Cookbook
+Classic Shell Scripting
+More Exceptional C++
+Hacking Vim 7.2
+ActionScript 3.0设计模式
+C++算法
+Building Social Web Applications
+SQL入门经典
+C#高级编程(第3版)
+Ajax模式与最佳实践
+Java程序员面试宝典
+Programming Language Pragmatics Second Edition
+C/C++深层探索
+程序员面试宝典
+SQLite权威指南
+Web协议与实践
+Windows Presentation Foundation程序设计指南
+Seven More Languages in Seven Weeks
+How to Think Like a Scientist
+Best of Ruby Quiz
+Beginning Python Visualization
+WebGL
+C程序设计伴侣
+程序设计语言
+精通Android
+Programming iOS 8
+汇编语言编程艺术
+轻量级Java EE企业应用实战
+CoffeeScript
+多元统计分析及R语言建模
+深度探索C++对象模型(影印版)
+MATLAB Programming for Engineers
+0 bug
+Foundation ActionScript 3.0 Animation
+数据结构与算法分析
+Ruby on Rails 快速Web应用开发实战
+Restful Web APIs
+LINUX教程
+A Practical Guide to Linux Commands, Editors, and Shell Programming
+Matplotlib for Python Developers
+Beginning Linux Programming 3rd Edition
+黑客编程入门3
+深入理解.NET
+设计模式解析
+Mastering Regular Expressions, Second Edition
+高阶Perl
+Learn Objective-C On The Mac 2nd Edition
+Visual C++ MFC编程实例
+C++ 程序设计教程
+Algorithms in a Nutshell
+WPF编程宝典
+jQuery攻略
+Applied Microsoft .NET Framework Programming
+游戏编程精粹4
+Web性能优化
+并行开发艺术
+Python 3 Object Oriented Programming
+卓有成效的程序员
+The Design and Analysis of Computer Algorithms
+The Art of Debugging with GDB, DDD, and Eclipse
+逆袭大学
+Professional Assembly Language
+Introduction to Scientific Programming and Simulation Using R
+大话重构
+Linux高级程序设计
+Perl网络编程
+多处理器编程的艺术
+网络安全开发包详解
+Shared Source CLI Essentials
+Android基础教程 （第3版）
+Writing Secure Code
+C++应用程序性能优化
+敏捷建模:极限编程和统一过程的有效实践
+D程序设计语言
+HTML5游戏开发实战
+AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java
+UML和模式应用（原书第2版）
+Algorithmic Puzzles
+测试驱动开发注释版
+Struts2权威指南
+精通Android 3
+Everyday Scripting with Ruby
+Google Android SDK开发范例大全
+Swift by Tutorials
+疯狂Java
+ML for the Working Programmer
+Swift权威指南
+XML 基础教程
+Ruby on Rails
+Statistical Analysis with R
+C++跨平台开发技术指南
+深入解析ATL
+爱上单片机
+Bash Cookbook
+ActionScript大型网页游戏开发
+Pro Android C++ with the NDK
+An Introduction to Functional Programming Through Lambda Calculus
+实战Linux编程精髓
+Effective TCP/IP Programming
+C#设计模式
+Google Android SDK开发范例大全
+深入理解大数据：大数据处理与编程实践
+精通JavaScript+jQuery
+JavaScript实战手册
+PHP与MySQL动态网站开发
+Windows游戏编程大师技巧
+疯狂HTML 5/CSS 3/JavaScript讲义
+SQL应用重构
+Foundations of GTK+ Development
+Making Things See
+Advanced Windows Debugging
+Java设计模式
+Linux设备驱动开发详解
+疯狂Ajax讲义
+Using Swift with Cocoa and Objective-C
+iPhone & iPad cocos2d游戏开发实战
+黑莓
+Pro OpenGL ES for Android
+Advanced Mac OS X Programming
+C# Primer Plus中文版
+Mastering Clojure Macros
+数据压缩导论（第4版）
+Pro Hadoop
+Learning the bash Shell, 2nd Edition
+深入浅出密码学
+C++ STL 中文版
+Flex & Bison
+基于OpenCV的计算机视觉技术实现
+Kinect应用开发实战
+优化建模与LINDO/LINGO软件
+并行程序设计原理
+Rails Recipes
+UNIX shell范例精解
+Spring源码深度解析
+数据结构与STL
+Python Pocket Reference
+Python 3程序开发指南
+编译器构造C语言描述
+《程序员》(杂志)
+ASP.NET MVC 3 高级编程
+Programming in Go
+Getting Started with RStudio
+ACM国际大学生程序设计竞赛亚洲区预选赛真题题解
+Ajax高级程序设计
+Refactoring
+Java从入门到精通
+程序设计中实用的数据结构
+敏捷数据科学：用Hadoop创建数据分析应用
+编程珠矶（第2版 影印版）
+特别版MATHEMATICA全书
+UML面向对象建模与设计
+游戏编程精粹2
+Agile Web Development with Rails, 2nd Edition
+jQuery Mobile即学即用
+.NET 4.0面向对象编程漫谈
+XML入门
+ASP.NET 4高级程序设计（第4版）
+C++ Cookbook
+Head First Android Development
+Android深度探索（卷1）
+PHP开发典型模块大全
+JavaScript & DHTML Cookbook中文版（第二版）
+Linux程序设计
+Java
+编程黑马真言
+Effective C#
+Raspberry Pi Python编程入门
+精通C#游戏编程
+SQL权威指南（第4版）
+Implementing Functional Languages
+Unix Systems Programming
+加密与解密
+Invent Your Own Computer Games With Python
+MATLAB R2012a完全自学一本通
+使用Ant进行Java开发
+An Introduction to Bioinformatics Algorithms
+Mastering Perl
+数据结构编程实验
+Unlocking Android
+Cocoa Design Patterns
+iOS游戏编程之从零开始
+Java Servlet编程
+C++设计模式
+浮现式设计
+C语言点滴
+Modeling Derivatives Applications in Matlab, C++, and Excel
+R Graphics
+Secure Coding in C and C++
+Algorithms + Data Structures = Programs
+UNIX完全手册
+GPU Gems
+MATLAB宝典
+WPF 4 Unleashed
+学习Python(第5版)(影印版)
+WebWork in Action中文版
+易读代码的艺术
+Windows命令行详解手册
+DSLs in Action
+Programming Google App Engine
+爱上制作4
+Reversing
+Java核心技术卷1
+Professional JavaScript for Web Developers
+hadoop技术详解
+PHP基础教程（第4版）
+进军硅谷
+Perl高效编程
+Python for Finance
+程序员密码学
+Android高薪之路
+Pro HTML5 and CSS3 Design Patterns
+The Android Developer's Cookbook
+A Discipline of Programming
+C和C++安全编码
+好学的Objective-C
+Android应用开发详解
+操作系统：设计与实现（第二版）
+浮点计算编程原理、实现与应用
+Visual C++技术内幕
+E-Prime 实验设计技术
+Intel微处理器
+SOA原理·方法·实践
+捉虫历险记
+内核漏洞的利用与防范
+数据结构与问题求解
+PHP高级编程
+The Art of Software Testing, Third Edition
+深入理解软件构造系统
+Core J2EE Patterns
+Ubuntu Linux指南
+操作系统原理·技术与编程
+精通.NET互操作
+Compiling with Continuations
+设计模式解析
+模式的乐趣
+OpenCL异构计算
+软件加密与解密
+PHP精粹
+Elemental Design Patterns
+程序设计语言概念
+计算机算法设计与分析
+实现模式
+Hello, Android
+SQL编程风格
+UNIX网络编程卷2
+精彩iPhone炫酷开发
+Maven
+征服Ajax Web2.0开发技术详解
+Data Structures and Algorithm Analysis in Java
+Absolute C++中文版
+失业的程序员
+Programming C# 3.0中文版（第5版）
+Guide to LaTeX, Fourth Edition
+iPhone游戏编程实例
+The Craft of Prolog
+ActionScript 3.0游戏编程
+Cocoa编程开发者手册
+Ruby从入门到精通
+C语言实例解析精粹
+Visual C++2008入门经典
+C++高效编程
+C++应用程序性能优化
+Python Scripting for Computational Science
+Concepts in Programming Languages
+苹果开发之Cocoa编程
+C++编程剖析
+Data Structures and Program Design In C
+Exceptional C++中文版
+Core Java, Volume II--Advanced Features
+C in a Nutshell
+Unix Shell编程
+Learning Python, 4th Edition, Ebook
+Clever Algorithms
+Ajax与PHP基础教程
+The Old New Thing
+Understanding and Using C Pointers
+品悟C
+Clean Code
+SCJP学习指南
+Oracle PL/SQL实战
+Gradle Beyond the Basics
+Realm of Racket
+编译器构造
+Learning PHP & MySQL中文版
+Intermediate Perl
+消息设计与开发
+学习Ruby
+数据结构(第二版)
+C++ Primer
+Qt Creator快速入门
+算法与数据结构
+分形算法与程序设计
+MATLAB GUI设计学习手记
+精通Windows API
+Java Performance Tuning (2nd Edition)
+C++数值算法（第二版)
+Python在Unix和Linux系统管理中的应用
+Beyond the C++ Standard Library
+JavaScript & jQuery
+软件之道
+The Quick Python Book, Second Edition
+C++并行与分布式编程
+Learn Ruby the Hard Way
+Java 语言导学
+C++编程你也行
+Python in Practice
+Bulletproof Ajax中文版
+程序设计语言：设计与实现（第四版）
+.NET高级调试
+轻快的Java
+嵌入式工程师必知必会
+C++高级编程
+AutoCAD VBA&VB.NET开发基础与实例教程
+Professional Java Development with the Spring Framework
+计算机系统结构
+Scala in Action
+Programming C#
+测试驱动的嵌入式C语言开发
+C语言入门经典（第5版）
+CJKV Information Processing
+Flash CS3 ActionScript 3.0游戏开发基础与范例
+精通shell编程
+C#与.NET 3.0高级程序设计
+PHP语言精粹
+算法分析与设计
+Windows Forms程序设计
+Beginning iOS 7 Development
+交互式计算机图形学
+开源技术选型手册
+Windows NT File System Internals
+基于 C++ CORBA 高级编程
+C++ GUI Programming with Qt 4
+Java编程风格
+Getting Started with Pyparsing
+Hacking Exposed 7
+C和C++安全编码
+PHP与MySQL程序设计（第4版）
+独辟蹊径的编程思维——“拿来主义”编程
+Advanced C++中文版
+Perl最佳实践
+遗传算法
+iOS Programming(2nd Edition)
+Functional Programming Patterns in Scala and Clojure
+Lucene+nutch搜索引擎开发
+Clojure in Action
+程序员修炼之道
+Parallel R
+SQL Antipatterns
+Pro ASP .NET MVC 4
+The CERT C Secure Coding Standard
+C# in Depth, Second Edition
+C程序设计的抽象思维
+Debugging Applications for Microsoft® .NET and Microsoft Windows®
+wxPython 2.8 Application Development Cookbook
+给设计师看的交互程序设计书
+面向对象分析与设计
+Visual Studio程序员箴言
+Async in C# 5.0
+Java程序设计语言
+IDA Pro权威指南（第2版）
+边干边学
+C语言参考手册
+Windows Phone 7程序设计
+Android高级编程
+开源软件之道
+分形算法与程序设计
+计算机组织与体系结构
+Write Great Code
+Concurrent Programming in Erlang
+UNIX Internals
+Design Patterns
+Java EE编程技术
+C#本质论
+实现模式
+Big C++中文版
+JavaScript权威指南
+提高C++性能的编程技术
+超容易的Linux系统管理入门书
+The Java Programming Language, 4th Edition
+C++网络编程 卷2
+数据之美
+不如这样设计
+A Primer on Memory Consistency and Cache Coherence
+高级TCP/IP编程
+The iOS Apprentice
+Rails高级编程
+深入理解Java7
+计算机奥秘
+Design Patterns in Ruby
+面向对象的思考过程
+The Art of Multiprocessor Programming, Revised Reprint
+C陷阱与缺陷
+Java编程语言
+Code Optimization
+GPU Pro
+算法技术手册
+30天软件开发
+ActionScript for Multiplayer Games and Virtual Worlds
+Professional Android 4 Application Development
+OpenCL in Action
+深入NoSQL
+Data Structures and Algorithms with JavaScript
+21 Recipes for Mining Twitter
+安全编程代码静态分析
+プログラミングコンテストチャレンジブック
+PHP 6与MySQL 5基础教程
+.NET应用架构设计
+编程精粹
+Learning ActionScript 3.0
+Fortran 95/2003 for Scientists and Engineers
+CPU源代码分析与芯片设计及Linux移植
+Apache Cookbook中文版
+Ajax与PHP Web开发
+面向对象设计实践指南
+Java程序员面试宝典
+SQL Pocket Guide
+HTTP Pocket Reference
+Python Testing Cookbook
+Android系统级深入开发
+Java与分布式系统
+Inside the Java Virtual Machine
+Android安全机制解析与应用实践
+Flex 3 Cookbook
+精彩绝伦的jQuery
+软件设计师教程
+REST API Design Rulebook
+Head Rush Ajax (Head First)
+Hacking and Securing iOS Applications
+C 语言的科学和艺术
+Visual C++/Turbo C串口通信编程实践
+Go语言·云动力
+The Mathematica GuideBook
+Test Driven Development for Embedded C
+Structured Parallel Programming
+P2P网络技术原理与系统开发案例
+Microsoft C# Windows 程序设计（上下，含光盘）
+JUnit in Action, Second Edition
+重构与模式
+LBS应用开发
+ActionScript 3.0 Game Programming University
+Storm实战
+C语言大全
+Higher-Order Perl
+C How to Program, Fourth Edition
+Linux 内核技术手册
+C++ Primer Plus
+Objective-C Programming  (2nd Edition)
+C++代码设计与重用
+sed and awk Pocket Reference, 2nd Edition
+嵌入式Linux 内存使用与性能优化
+软件配置管理模式
+The Art of Assembly Language
+Effective C++
+Building iPhone Apps with HTML, CSS, and JavaScript
+GCC技术参考大全
+Encyclopedia of Algorithms
+Java语言精粹
+C++探秘
+GNU/LINUX环境编程
+Microsoft SQL Server 2005技术内幕
+Build Awesome Command-Line Applications in Ruby
+从零开始学C语言
+程序设计语言概念
+Programming C#中文版
+Learning Perl, 5th Edition
+C Programming FAQs
+Practical Algorithms for Programmers
+实用C语言编程
+21天学通C语言
+实战Linux Socket 编程
+The Art of Concurrency
+信息论、编码与密码学
+iPad应用开发实战
+细说Java
+iPhone Open Application Development
+程序员面试攻略
+Python for Kids
+HTML5 Canvas
+Java完全参考手册
+Generic Programming and the STL
+Ruminations on C++
+Linux C编程实战
+高效程序员的45个习惯（修订版）
+Ruby程序设计语言
+JavaScript学习指南
+Generative Gestaltung
+Head First iPhone and iPad Development
+Groovy入门经典
+Windows程序调试
+C++ Qt设计模式
+Hacking Secret Ciphers with Python
+零起点学通C++
+Linux环境C程序设计
+BASIC语言
+Google API开发详解
+空间数据分析与R语言实践
+Python技术参考大全
+Perl最佳实践（中文版）
+Android、iPhone、Windows Phone手机网页及网站设计
+C# 5.0 in a Nutshell
+黑客免杀攻防
+Linux Shell编程从初学到精通
+Exploring Expect
+A Handbook of Statistical Analyses Using R
+HTML、XHTML、CSS与JavaScript入门经典
+Literate Programming (Center for the Study of Language and Information - Lecture Notes)
+Visual C++游戏编程基础
+Imperfect C++
+实战Hadoop
+80x86 IBM PC及兼容计算机（卷Ⅰ和卷Ⅱ）
+F#语言程序设计
+Visual C++2010入门经典
+Unity 3D游戏开发
+Efficient C++
+Java编程那些事儿
+面向对象软件构造
+OpenGL Programming Guide
+深入浅出PhoneGap
+C++编程风格
+Java 7 Concurrency Cookbook
+使用Perl实现系统管理自动化 第二版（中文版）
+Async JavaScript
+Starting Out with C++
+PHP动态网页设计（第2版）
+Programming WPF
+SAS编程技术教程
+Multicore Application Programming
+flex 与 bison
+Unix Network Programming
+MATLAB GUI设计学习手记
+I. M. Wright's  Hard Code
+XMPP高级编程
+ACM国际大学生程序设计竞赛
+Testable JavaScript
+LabVIEW 8.20程序设计从入门到精通
+多维与度量数据结构基础
+Core Java, Vol. 2
+WF本质论
+JavaScript经典实例
+Effective C#
+《数据结构》算法实现及解析
+程序语言的奥妙
+Eclipse SWT/JFace核心应用
+SQL基础教程
+Java解惑
+LATEX入门与提高
+Tomcat权威指南
+Beginning Java Objects中文版从概念到代码
+Cocoa Programming Developer's Handbook
+cocos2d-x手机游戏开发
+Python 核心编程  含盘
+C++语言核心
+软件工程
+JavaScript实战
+驯服烂代码
+数据结构与算法分析
+C游戏编程从入门到精通
+C#并行编程高级教程
+数值方法和MATLAB实现与应用
+Ansible Configuration Management
+Effective STL
+Java程序员面试宝典
+深入解析MFC
+OpenGL超级宝典
+C语言参考手册
+Algorithms
+Bootstrap
+Creating Applications with Mozilla
+Learn Prolog Now!
+Akka in Action
+Design Concepts in Programming Languages
+MATLAB应用实例精讲
+Windows Phone 8开发技巧与案例精解
+程序员入职锦囊妙计
+Engineering Software as a Service
+iPad开发基础教程
+从问题到程序
+CVS精髓
+C++大学教程
+每天10分钟轻松掌握C++
+Think Like A Programmer
+Head First Rails
+Greasemonkey Hacks
+Write Great Code
+GNU Autoconf, Automake, and Libtool
+The R Book
+算法之道(第2版)
+The Fun of Programming
+Head First WordPress
+Synchronization Algorithms and Concurrent Programming
+Lua Programming Gems
+Pro Spring 3
+竹林蹊径
+Perl语言入门(第二版)
+Python Web Development with Django
+The Algorithm Design Manual
+Foundations of Qt Development
+数据结构题集
+Android 2.0游戏开发实战宝典
+Windows Presentation Foundation Unleashed
+Exceptional C++ Style
+C 语言参考手册（第五版）（英文版）
+恶意软件分析诀窍与工具箱
+程序员面试攻略(原书第3版)
+3D游戏卷2：动画与高级实时渲染技术
+数据结构与算法分析
+HTML 5实战
+Pro HTML5 Programming
+通过游戏编程实战教新手学C++编程
+Linkers and Loaders
+巧学巧用Excel 2003 VBA与宏（中文版）
+Python技术手册(第2版)
+C++沉思录
+Understanding UNIX/LINUX  Programming
+PHP in Action
+Intel汇编语言程序设计
+Linux 0.01内核分析与操作系统设计
+Build Awesome Command-Line Applications in Ruby 2
+Java JDK 5.0学习笔记
+Principles of Concurrent and Distributed Programming
+并行算法导论
+设计模式初学者指南
+Tim O'Reilly in a Nutshell
+C语言详解
+软件开发之韵
+The New C Standard
+Linux内核编程必读
+Supercharged JavaScript Graphics
+CSS入门经典
+编写有效用例
+Android开发入门与实战
+R for Everyone
+Boost程序库完全开发指南
+深入体验C语言项目开发
+Code Quality
+iPhone开发入门经典
+Python High Performance Programming
+Struts2深入详解
+Code Complete
+Developing Web Applications with Haskell and Yesod
+Unity3D人工智能编程精粹
+经典Java EE企业应用实战
+C/C++软件工程师就业求职手册
+从重构到模式
+Producing Open Source Software
+精通Qt4编程
+The Data Model Resource Book
+无线传感器网络操作系统TinyOS
+Python编程 第4版 影印版 上下册
+Clojure Data Analysis Cookbook
+Advanced ActionScript 3 with Design Patterns
+重构
+iOS 5 Programming Cookbook
+Programming the Microsoft Windows Driver Model, Second Edition
+数据结构与算法分析
+Spring攻略
+The Art of Debugging with GDB and DDD
+Linux内核分析及编程
+The Art of Computer Programming, Volume 4, Fascicle 0
+ASP.NET3.5揭秘（卷1）
+Agile Web Development with Rails 4
+Karel The Robot Learns Java
+Learning PHP, MySQL, and JavaScript
+R Inferno
+Game Physics
+TCP/IP Sockets in C, Second Edition
+Oracle精髓
+DTrace
+Beginning Perl for Bioinformatics
+OpenGL超级宝典
+Modern Applied Statistics with S
+C程序设计题解与上机指导
+Building Android Apps with HTML, CSS, and JavaScript
+Linux环境下C编程指南
+实时用户体验
+Python for Software Design
+Pro Android 4
+OpenCL编程指南
+GPU PRO 3
+iOS Recipes
+数据结构与程序设计
+The Psychology of Computer Programming
+.NET、C#与Silverlight开发圣典
+安全编程修炼之道
+Coding the Matrix
+Programming in Objective-C (4th Edition) (Developer's Library)
+代码大全(Code Complete)
+Beginning iPhone 4 Development
+Java程序员面试宝典（第三版）
+CGI 编程
+Fundamental Networking in Java
+数据结构与算法
+Test-Driven JavaScript Development
+CSS3
+Web服务
+C++网络编程.卷1-运用ACE和模式消除复杂性
+Visual C++ 2005入门经典
+Windows系统编程
+Programming in C
+Cocoa and Objective-C
+OpenGL编程基础
+Visual C++ 2012入门经典
+Actors in Scala
+Python Standard Library
+黑客调试技术揭秘
+Perl DBI编程
+MongoDB管理与开发精要
+Open Sources 2.0
+C#面向对象编程
+Object-Oriented Programming in Common Lisp
+APIs
+ATL 开发指南
+Beginning Lua Programming
+Symbian OS C++高效编程
+Learning Ruby
+PASCAL程序设计
+Debugging by Thinking
+Pro Spring
+Java Swing
+Java从入门到精通
+嵌入式Linux应用程序开发详解
+iOS 5应用开发入门经典
+Learning Cython Programming
+Code Craft
+WPF编程宝典
+C++ How to Program (5th Edition)
+Pragmatic Unit Testing in Java with JUnit
+游戏编程精粹-7-附光盘
+艾可博士的36道推理谜题
+PHP 5 in Practice中文版
+Introduction to C++ for Financial Engineers
+SQL Server从入门到精通
+Python与Tkinter编程
+AI for Game Developers
+JavaScript Enlightenment
+游戏编程入门
+Storm实时数据处理
+黑客反汇编揭秘
+爱上Arduino
+Operating System Design
+Visual C#2005从入门到精通
+IBM PC汇编语言程序设计
+飞天开放平台编程指南
+The Elements of C++ Style
+Beginning C# Objects
+Flex 4权威指南
+Erlang programmation
+Java I/O
+Java Web开发技术大全
+Coder to Developer
+NET 4.0面向对象编程漫谈
+C#入门经典
+ExtJS Web应用程序开发指南
+C++编程艺术
+Windows程序设计
+Java程序设计教程
+I. M. Wright's "Hard Code"
+Professional Software Development
+Rails学习手册
+Pragmatic Project Automation
+Delphi面向对象编程思想
+The Joy of Clojure
+iPhone SDK 3开发指南
+Practical Foundations for Programming Languages
+MATLAB编程
+Spring攻略
+MATLAB N个实用技巧
+程序设计教程
+Head First C#
+C++标准库扩展权威指南
+Linux操作系统内核实习
+Event Processing in Action
+PERL实例精解
+Super Scratch Programming Adventure!
+Linux那些事儿之我是USB
+Grails权威指南
+Android基础教程（第3版·修订版）
+Framework Design Guidelines
+Sams Teach Yourself C++ in 21 Days (5th Edition) (Sams Teach Yourself)
+WebGL入门指南
+jQuery Mobile快速入门
+Functional methods and models in quantum field theory
+专家系统
+交互式计算机图形学
+Effective Enterprise Java中文版
+Beyond Java
+WF高级程序设计
+C++程序设计陷阱
+The Art of Computer Programming, Volume 4,  Fascicle 3
+Programming in Python 3
+C语言大学教程
+算法设计与实验题解
+Embedded Linux Primer
+C程序设计
+Software Design 中文版 01
+疯狂Java程序员的基本修养
+C++编程思想 第二卷 实用编程技术（英文版）
+C++黑客编程揭秘与防范
+Cross-Platform GUI Programming with wxWidgets (Bruce Perens Open Source)
+Programming Visaual C++6.0 技术内幕(第五版)(修订版)
+Ruby on Rails入门经典
+Objective-C初学者指南
+Game Scripting Mastery (Premier Press Game Development (Paperback))
+大道PHP
+Programming Scala
+网络游戏安全揭密
+程序设计基础(第2版)
+学习R
+Linux C函数库详解词典
+Sketchy LISP
+ASP.NET 2.0网站开发全程解析
+UNIX Shell范例精解
+Linux内核源代码分析
+JavaScript基础教程
+Pro Android Python with SL4A
+Smashing Node.js
+jQuery Cookbook中文版
+Linux编程技术详解
+Programming Firefox
+LabVIEW编程样式
+A First Course in Statistical Programming with R
+汇编语言的编程艺术
+公钥密码学的数学基础
+Android/OPhone开发完全讲义(china-pub首发)
+Ant权威指南
+What Is Node
+移动云计算应用开发入门经典
+Pro Puppet
+ASP.NET第一步
+WCF服务编程
+The School of Niklaus Wirth
+Git Magic
+软件预构艺术
+交互式定理证明与程序开发
+跨平台软件开发
+R Graph Cookbook
+Texturing and Modeling, Third Edition
+Driving Technical Change
+Mastering CMake
+iOS网络编程与云端应用最佳实践
+Windows API编程
+SWING HACKS
+jBPM4工作流应用开发指南
+Documenting Software Architectures
+Unity 3.x Game Development Essentials
+黑客之道
+Python 2.1宝典
+Linux C程序设计大全
+Flash ActionScript 3.0实训课堂
+The Rails Way
+Advanced Bash Scripting Guide 5.3 Volume 1
+Learning Cocos2D
+PHP网络编程技术与实例
+Expert F#
+蚁群优化
+Rails Recipes
+Boost程序库探秘
+网络安全高级软件编程技术
+PHP深度分析
+JUnit in Action
+Numerical Recipes in C
+计算机断层成像技术
+Fortran权威指南
+算法Ⅰ-Ⅳ
+The iPhone Developer's Cookbook
+Pro C# 2008 and the .NET 3.5 Platform
+Web开发人员参考大全
+STL高效编程
+AutoLISP$DCL基础篇
+C语言经典编程282例
+Java核心技术 卷Ⅱ
+Learning Objective-C 2.0
+Linux C编程从初学到精通
+Linux Shell编程从入门到精通
+Concepts of Programming Languages
+Learning JavaScript
+OpenGL Shading Language
+ACM/ICPC算法训练教程
+三维游戏引擎设计与实现
+C# 4.0 in a Nutshell
+Android 3D游戏开发技术详解与典型案例
+HTML5
+爱上制作3
+CSS
+Ruby程序设计268技
+MongoDB Applied Design Patterns
+编写高质量代码
+Lean Software Development
+.NET大局观
+C++STL开发技术导引
+iPhone与iPad开发实战
+微软.NET程序的加密与解密
+Microsoft.NET IL汇编语言程序设计
+LISP语言
+C++ Common Knowledge
+C语言开发入门与编程实践
+Android NDK Beginner's Guide
+You Can Do It(附光盘) (平装)
+Effective Perl Programming
+C和C++代码精粹
+Haskell Financial Data Modeling and Predictive Analytics
+C#2005 &.NET 3.0高级编程（上下卷）
+Advanced C++ Programming Styles and Idioms
+ASP.NET 2.0经典教程
+精通UNIX下C语言编程与项目实践
+软件优化技术
+C大学教程
+银光志
+国际大学生程序设计竞赛例题解
+Arduino
+Programming Erlang
+CUDA范例精解
+Learn Cocoa on the mac
+UNIX Network Programming
+JavaScript详解（第2版）
+从缺陷中学习C/C++
+PERL HACKS
+ACE技术内幕
+The Developer's Guide to Debugging
+Cocos2D-x权威指南
+OpenGL SuperBible
+Essential COM
+The Haskell School of Expression
+An Introduction to R
+C++面向对象程序设计
+Virtual Machine Design and Implementation C/C++
+Java Script入门经典
+数字图像处理
+iPhone开发创意火花集
+Spring 2.0核心技术与最佳实践
+Ext JS权威指南
+Windows系统编程
+Visual C++数字图像处理
+C++设计新思维
+面向对象编程导论
+ASP.NET 2.0高级编程
+The Craft of Text Editing
+C#3.0设计模式
+Learn C on the Mac (Learn Series)
+Distributed Systems
+精通Oracle 10g SQL和PL/SQL
+嵌入式软件开发及C语言实现
+国际大学生程序设计竞赛指南
+Gamers at Work
+Apache Tomcat 6高级编程
+Oracle PL/SQL 最佳实践
+Qt中的C++技术
+Excel 2003与VBA编程从入门到精通
+Essential C++
+Windows 7设备驱动程序开发
+ActionScript 3.0宝典
+ASP.NET 3.5 揭秘（卷2）
+会说话的代码——书写自表达代码之道
+Flash 8 ActionScript宝典
+Programming the 80386
+Exceptional C++
+Mathematics for 3D Game Programming and Computer Graphics, Second Edition
+C#高级编程(第8版)
+Introduction to Programming in Java
+Learning Core Audio
+ACM程序设计培训教程
+Game Engine Gems, Volume One
+ASP.NET 2.0高级编程
+Coding Freedom
+C#高级编程
+Rubyソースコード完全解説
+Java编程入门经典
+ASP.NET 2.0入门经典
+OSGi实战
+Apache服务器配置与使用工作笔记
+STL扩展技术手册卷I
+Android游戏开发实践指南
+Pro C# 5.0 and the .NET 4.5 Framework
+Nonlinear Programming
+J2EE核心模式
+Eclipse集成开发工具
+PHP应用程序安全编程
+Practical OCaml
+Engineering Long-Lasting Software
+DOM Enlightenment
+Python & XML
+PHP与jQuery开发实例
+C语言详解
+C#与.NET程序员面试宝典
+Rails 3 in Action
+BITTER JAVA中文版
+精通Spring
+非真实感图形学
+Framework的设计与应用
+Java2实用教程
+C++编程惯用法
+21天学通C++
+程序设计入门经典
+Essential C# 5.0
+C++实践之路
+DirectShow开发指南
+Cloning Internet Applications with Ruby
+精通Unreal Engine 3卷Ⅱ
+Beginning C# 2008 Objects中文版
+Intel Threading Building Blocks编程指南
+The Elements of MATLAB Style
+The Agile Samurai
+Making Embedded Systems
+重构极限编程
+Beginning iPhone Development with Swift
+Unity 4 Shaders and PostProcessing Effects Cookbook
+Perl Hacks
+C++ Templates中文版
+精通PHP5应用开发
+Excel VBA基础入门
+Visual C++角色扮演游戏程序设计
+Android應用軟體架構設計
+Beginning Android 4
+WPF编程
+C#本质论
+Direct3D游戏编程入门教程
+JSP项目开发案例全程实录
+C++ How to Program
+Beginning iOS 6 Development
+Programming F#
+JavaScript编程宝典
+Python编程基础
+ASP.NET 4揭秘（卷1）
+软件设计师教程
+金融数量分析
+UML面向对象建模与设计（第2版）
+征服Ajax
+好学的C++（第2版）
+OCaml for Scientists
+WCF揭秘
+Dive Into Python
+大学算法教程
+Linux高级程序设计
+C语言的科学和艺术
+C++程序设计语言题解
+你必须知道的261个Java语言问题
+XML与Perl、Python和PHP编程指南
+Webbots, Spiders, and Screen Scrapers
+Puzzles for Programmers and Pros
+Building Hypermedia APIs with HTML5 and Node
+HTML、CSS和JavaScript入门经典
+精通Qt4编程
+量化思路
+揭秘PSP
+Financial Modeling in Python
+C高级实用程序设计
+Interactive Computer Graphics
+Making Games with Python & Pygame
+大话Java
+Visual C# 2008从入门到精通
+The D Programming Language
+Struts2+Spring+Hibernate框架技术与项目实战
+Regular Expression Pocket Reference
+ASP.NET 2.0服务器控件与组件开发高级编程
+XML高级编程
+高级UNIX编程
+Beginning Android Games
+C++ Templates
+实用C++程序设计
+征服Ajax Web 2.0快速入门与项目实践
+MATLAB7.0从入门到精通
+黑客防线2009
+Programming Amazon EC2
+Learning R
+Android in Practice
+标准C++输入输出流与本地化
+Essentials of Programming Languages
+闪客实战--Flash 高级编程(含盘)
+Introduction to Algorithms
+C++程序设计教程
+程序设计语言概念
+精通COBOL
+The Art of Computer Programming, Fascicle 4
+程序员2006精华本
+Programming on Purpose
+图论编程
+PHP Hacks
+Learn to Program Second Edition
+数据结构与算法
+Ruby 最佳实践
+Windows应用程序捆绑核心编程
+Clojure Cookbook
+C# 3.0 in a Nutshell
+Pragmatic Guide to Git
+JavaScript征途
+Pro Android
+Beginning Ruby
+OS X and iOS Kernel Programming
+面向对象编程C++和Java比较教程
+Essential ActionScript 2.0
+Maya5编程全攻略
+Beginning Android 4 Application Development
+诗意的边缘
+jQuery Mobile
+Write Portable Code
+Ruby on Rails电子商务实战
+Foundation Game Design with Flash
+Debug Hacks -デバッグを極めるテクニック&ツール
+LINUX程序设计(原书第2版)
+Beginning Android
+Practical Programming in Tcl and Tk
+Programming Interviews Exposed
+Linear Models With R
+ASP.NET 4入门经典（第6版）
+网格计算
+Visual C++黑客编程揭秘与防范
+Ext江湖
+Financial Instrument Pricing Using C++
+Effective Java(影印版) (平装)
+图像编程精髓
+Java与XML
+Learning jQuery, Third Edition
+Java高级编程
+释放多核潜能
+The Art and Science of  C
+Ruby on Rail程序设计技术详解
+指针的艺术
+C#编程风格
+C++大学教程
+Pragmatic Guide to Sass
+Counter Hack Reloaded
+学习XNA游戏编程（中文版）
+编写安全的代码２
+未雨绸缪
+HTML 5开发精要与实例详解
+Visual C++ 2010开发权威指南
+网络游戏Server编程
+Object-Oriented Design Heuristics
+Android开发秘籍
+Windows API 函数参考手册
+精通MFC程序设计
+XML高级编程
+C++编码规范
+iPhone Programming
+A Physicist's Guide to Mathematica, Second Edition
+Concurrent Programming in Mac OS X and iOS
+Practical Programming
+C#开发实战1200例
+Programming Entity Framework
+JavaScript权威指南
+Android应用案例开发大全
+iPhone创意开发入门与实战
+分布式系统技术内幕
+菜鸟成长之路
+Visual C++项目开发案例全程实录
+jQuery UI
+CouchDB
+UNIX编程环境
+Ruby完全自学手册
+Expert Spring MVC and Web Flow
+80x86汇编语言基础教程
+Linux应用程序开发
+一个都不能有
+OpenGL 游戏编程
+Flash ActionScript3.0编程技术教程
+Numerical Computing with Matlab
+Programming Applications for Microsoft Windows
+The COMPLETE Effect and HLSL Guide
+Beginning PHP and MySQL 5
+JAVA2核心编程(第1卷):基础篇(第6版,影印版)
+Advanced .NET Debugging
+VC++图像处理程序设计
+Imperfect C++
+Programming Embedded Systems
+PHP、MySQL和Apache编程导学
+像计算机科学家一样思考Java
+并行程序设计
+DNA计算
+零缺陷程序设计
+Windows 8应用开发权威指南
+Applying UML and Patterns
+Windows7脚本编程和命令行工具指南
+Node.js高级编程
+Perl教程――Win32版
+Using GCC
+Learning PHP & MySQL
+Essential SNMP, Second Edition
+C++入门经典
+Visual C++/Turbo C串口通信编程实践
+数据结构与程序设计
+Java核心技术
+编程语言
+Dart语言程序设计
+More Effective C#
+Essential .NET, Volume I
+Perl Testing
+Spring高级程序设计
+Visual C++音频/视频处理技术及工程实践
+ASP.NET MVC 2开发实战
+Visual Studio技术大全
+Practical Computing for Biologists
+Oracle编程入门经典――覆盖至Oracle 9i版本
+用Python学编程
+Introducing Regular Expressions
+Formal Syntax and Semantics of Programming Languages
+DSP原理及其C编程开发技术
+SOA核心技术及应用
+C++捷径教程(第3版)
+Expert .NET 2.0 IL Assembler
+Django 1.0 Template Development
+iPhone游戏开发入门经典
+系统分析与设计方法
+Modern Perl
+Android应用开发实战
+Introducing HTML 5
+标准C语言基础教程
+C程序设计 软件工程环境
+软件测试实践
+Beginning iPhone 3 Development
+Programming Groovy
+AJAX and PHP
+Building Android Apps with HTML, CSS, and JavaScript
+Linux高级编程/Wrox程序员参考系列
+Perl编程金典
+Mastering Mathematica
+Minimal Perl
+The Book of Qt 4
+Learning OpenCV
+计算机图形学导论
+Windows Mobile平台应用与开发
+程序设计的模式语言（卷1）
+最优化方法及其Matlab程序设计
+犹太人智慧大全集
+XML手册
+C# Programming Language
+Python程序员指南
+Pro C# 2010 and the .NET 4 Platform
+Advanced Rails
+Linux C编程
+Modern Perl
+MATLAB神经网络应用设计/MATLAB语言应用系列
+多核程序设计
+Java参考大全
+Pragmatic Version Control Using CVS
+Programming in Prolog
+JavaScript Testing with Jasmine
+The Java Language Specification, Java SE 7 Edition
+Software Tools in Pascal
+轻快的好Java
+Linux应用程序开发
+Java Pitfalls 中文版 (平装)
+Building Java Programs
+面向对象程序设计
+ASP.NET MVC网站编程案例精解
+并行程序设计原理
+CORBA 企业解决方案
+MacRuby
+Unity 3D Game Development by Example Beginner's Guide
+80x86汇编语言程序设计
+分析模式
+iPhone 4应用程序开发入门与实战
+Linux窗口程序设计
+ASP.NET电子商务开发实战
+Programming Interactivity
+AppleScript
+应用程序调试技术
+Programming with Quartz
+Java Cookbook, Second Edition
+The Rails View
+Pro Drupal 7 Development, Third Edition
+PHP网络编程典型模块与实例精讲
+Advanced Windows
+IOS 5 Programming Pushing the Limits
+Introducing HTML5 Game Development
+ACM国际大学生程序设计竞赛题解
+WEB GIS开发ARCGIS SERVER与.NET
+密码编码学
+解析Java虚拟机开发
+The C++ Standard Library Extensions
+C程序设计
+更锋利的C#代码
+标准C程序设计
+SystemVerilog硬件设计及建模
+SAP BW/BO实战指南
+Professional C# 2008
+Programming C# 4.0
+HTML/CSS/JavaScript标准教程
+Algorithm Engineering
+嵌入式实时操作系统Μc/OS-Ⅱ原理及应用
+Head Rush Ajax
+Programming Entity Framework
+Programming Entity Framework
+C++ Gotchas
+Programming Perl
+Linux开发工具箱
+Microsoft Visual Studio Tips
+How to Think Like a Computer Scientist
+PHP项目开发全程实录
+Agile and Iterative Development
+Spring Web Flow权威指南
+面向对象的软件测试/软件工程技术丛书
+Learn cocos2d 2: Game Development for iOS
+Perl 5编程详解
+F# for Scientists
+Sams Teach Yourself Regular Expressions in 10 Minutes
+21天学通Java6
+Intel微处理器
+Building Embedded Linux Systems
+系统分析之路
+Lucene搜索引擎开发权威经典
+C++网络编程（卷1）
+iOS 7 Programming Fundamentals
+程序员2012精华本
+Game Programming Gems 8
+Smalltalk-80
+Mastering Perl for Bioinformatics
+CUDA Programming
+Linux操作系统内核实习
+Practical UML Statecharts in C/C++, Second Edition
+Groovy Recipes
+php和mysql web开发
+VISUAL STUDIO HACKS
+Microsoft Visual C# 2010 Step by Step
+The Elements of Java Style
+全国信息学奥林匹克联赛培训教程
+Beginning SQL
+Red Hat Linux指南
+iOS 4编程入门经典
+C++图形与游戏编程基础
+HTML5 Games
+OpenGL Programming Guide Sixth Edition
+最新Java 2核心技术卷I:原理（原书第5版）
+Matlab Programming for Engineers
+Java教程(第4版)
+Visual Basic Win32 API编程
+用Mathematica做微积分实验
+Visual C++ Windows Shell Programming
+PHP+MySQL完全学习手册
+Professional IOS Network Programming
+An Introduction to Design Patterns in C++ with Qt 4
+3D Programming for Windows
+The Definitive Guide to Html5 Websocket
+Canvas Pocket Reference
+精通DIV+CSS网页样式与布局
+数据结构算法与应用
+数据结构与算法
+PC技术内幕
+Python 2.6 Text Processing
+Beginning Visual C# 2012 Programming
+Arduino Cookbook
+AVR-GCC与AVR单片机C语言开发
+精通Visual C++数字图像模式识别技术及工程实践
+Statistics
+Algorithms in C (paperback)
+Ajax、JavaScript和PHP编程导学
+Die C++ Programmiersprache
+Cassandra High Performance Cookbook
+Arduino编程从零开始
+C程序员成长攻略
+CUDA Application Design and Development
+Perl语言入门
+C++入门经典
+.NET设计规范
+精通Tomcat
+Expert Shell Scripting
+项目中的.NET
+深入淺出JavaScript
+iPhone应用程序开发名家解析
+AutoCAD VBA二次开发教程
+RESTful Java Web Services
